@@ -1,0 +1,1 @@
+How to make all objects in bucket public: https://stackoverflow.com/questions/19176926/how-to-make-all-objects-in-aws-s3-bucket-public-by-default

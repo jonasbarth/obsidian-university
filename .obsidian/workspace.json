@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "6c07bbd619d3fe18",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a8be6c82b9b555a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b787929f73a6d06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sapienza/1st Semester/FDS/FDS Project Ideas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c0b676751899fc66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sapienza/1st Semester/FDS/FDS Project Ideas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e3c527061e75798e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "technology/Local PySpark Installation.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "2f724ccca9dd9c2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "technology/aws/S3 Bucket Policy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "55a7baf5b318abeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sapienza/1st Semester/FDS/Helpful Links.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fb6ec90659530f48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sapienza/Study Abroad/Links.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "71891d58418f50f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "acfa5d19dce1b6ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4f3c0a52798079e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "22c480b17ddf6e9d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "45d366732074cb38",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "51974ca5f95cfa5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "02cedc91a6a6963b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42ad957cba388fbe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sapienza/Study Abroad/Links.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d062cdd59dbdbc08",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sapienza/Study Abroad/Links.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "845b49f5f17d3076",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9084b5c4108230c9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sapienza/Study Abroad/Links.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "fb6ec90659530f48",
+  "lastOpenFiles": [
+    "Sapienza/1st Semester/FDS/Helpful Links.md",
+    "technology/aws/S3 Bucket Policy.md",
+    "technology/Local PySpark Installation.md",
+    "Sapienza/1st Semester/FDS/FDS Project Ideas.md"
+  ]
+}
