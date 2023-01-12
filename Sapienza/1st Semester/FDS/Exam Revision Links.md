@@ -14,4 +14,6 @@ Cross Entropy:
 
 Softmax Regression:
 - [deeplearning stanford](http://deeplearning.stanford.edu/tutorial/supervised/SoftmaxRegression/#:~:text=Softmax%20regression%20(or%20multinomial%20logistic,kinds%20of%20hand%2Dwritten%20digits.)
-- 
+
+GDA & Naive Bayes
+- https://www.youtube.com/watch?v=nt63k3bfXS0&ab_channel=StanfordOnline
