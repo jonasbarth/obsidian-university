@@ -189,13 +189,21 @@
                 "file": "Sapienza/1st Semester/FDS/Exam Revision Links.md"
               }
             }
+          },
+          {
+            "id": "c1a89f4574339e56",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
