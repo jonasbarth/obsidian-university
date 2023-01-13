@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sapienza/1st Semester/FDS/Exam Revision Links.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sapienza/1st Semester/FDS/Exam Revision Links.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sapienza/1st Semester/FDS/Exam Revision Links.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sapienza/1st Semester/FDS/Exam Revision Links.md"
+                "file": "README.md"
               }
             }
           },
@@ -217,8 +217,8 @@
   },
   "active": "fb6ec90659530f48",
   "lastOpenFiles": [
-    "Sapienza/Study Abroad/Links.md",
     "Sapienza/1st Semester/FDS/Exam Revision Links.md",
+    "Sapienza/Study Abroad/Links.md",
     "technology/aws/S3 Bucket Policy.md",
     "technology/Local PySpark Installation.md",
     "Sapienza/1st Semester/FDS/FDS Project Ideas.md"

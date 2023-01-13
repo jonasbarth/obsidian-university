@@ -17,3 +17,9 @@ Softmax Regression:
 
 GDA & Naive Bayes
 - https://www.youtube.com/watch?v=nt63k3bfXS0&ab_channel=StanfordOnline
+
+Estimation and Approximation Error:
+- https://ai.stackexchange.com/questions/23875/whats-the-difference-between-estimation-and-approximation-error
+
+Bias and Variance
+* https://www.bmc.com/blogs/bias-variance-machine-learning/
