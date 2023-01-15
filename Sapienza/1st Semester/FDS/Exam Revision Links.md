@@ -23,3 +23,6 @@ Estimation and Approximation Error:
 
 Bias and Variance
 * https://www.bmc.com/blogs/bias-variance-machine-learning/
+
+GLM
+- https://towardsdatascience.com/generalized-linear-models-9cbf848bb8ab
