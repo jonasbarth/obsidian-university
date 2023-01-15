@@ -26,3 +26,6 @@ Bias and Variance
 
 GLM
 - https://towardsdatascience.com/generalized-linear-models-9cbf848bb8ab
+
+Edge Detection
+- https://cseweb.ucsd.edu/classes/wi14/cse152-a/lec10.pdf
