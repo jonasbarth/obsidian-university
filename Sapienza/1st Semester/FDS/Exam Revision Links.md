@@ -4,6 +4,7 @@ Sharpening Filters:
 
 Convolutions:
 * https://theano-pymc.readthedocs.io/en/latest/tutorial/conv_arithmetic.html
+* https://www.youtube.com/watch?v=C_zFhWdM4ic
 
 Image Pyramids:
 * https://www.cs.cmu.edu/~16385/s17/Slides/3.1_Image_Pyramid.pdf
@@ -29,3 +30,6 @@ GLM
 
 Edge Detection
 - https://cseweb.ucsd.edu/classes/wi14/cse152-a/lec10.pdf
+- Sobel https://www.youtube.com/watch?v=uihBwtPIBxM&ab_channel=Computerphile
+- Canny https://www.youtube.com/watch?v=sRFM5IEqR2w
+- 
