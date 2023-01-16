@@ -33,3 +33,9 @@ Edge Detection
 - Sobel https://www.youtube.com/watch?v=uihBwtPIBxM&ab_channel=Computerphile
 - Canny https://www.youtube.com/watch?v=sRFM5IEqR2w
 - Arctan https://www.mathopenref.com/arctan.html
+
+Scores:
+- https://towardsdatascience.com/accuracy-precision-recall-or-f1-331fb37c5cb9
+
+Colour Histograms
+- https://www.pinecone.io/learn/color-histograms/
