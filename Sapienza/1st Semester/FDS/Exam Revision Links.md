@@ -32,4 +32,4 @@ Edge Detection
 - https://cseweb.ucsd.edu/classes/wi14/cse152-a/lec10.pdf
 - Sobel https://www.youtube.com/watch?v=uihBwtPIBxM&ab_channel=Computerphile
 - Canny https://www.youtube.com/watch?v=sRFM5IEqR2w
-- 
+- Arctan https://www.mathopenref.com/arctan.html
