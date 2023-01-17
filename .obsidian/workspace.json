@@ -92,6 +92,18 @@
             }
           },
           {
+            "id": "4ea13e5e158e63f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sapienza/Admin Things.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "fb6ec90659530f48",
             "type": "leaf",
             "state": {
@@ -104,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -170,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sapienza/Study Abroad/NTU.md",
+                "file": "Sapienza/Admin Things.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sapienza/Study Abroad/NTU.md",
+                "file": "Sapienza/Admin Things.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sapienza/Study Abroad/NTU.md"
+                "file": "Sapienza/Admin Things.md"
               }
             }
           },
@@ -256,11 +268,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f3bcb3b9c6703526",
+  "active": "4ea13e5e158e63f7",
   "lastOpenFiles": [
+    "Sapienza/Study Abroad/NTU.md",
     "Sapienza/Study Abroad/ULB.md",
     "Sapienza/Study Abroad/Links.md",
-    "Sapienza/Study Abroad/NTU.md",
     "Sapienza/1st Semester/FDS/Exam Revision Links.md",
     "README.md",
     "technology/aws/S3 Bucket Policy.md",
