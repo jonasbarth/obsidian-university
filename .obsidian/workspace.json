@@ -8,54 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6b787929f73a6d06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sapienza/1st Semester/FDS/FDS Project Ideas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c0b676751899fc66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sapienza/1st Semester/FDS/FDS Project Ideas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e3c527061e75798e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "technology/Local PySpark Installation.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "2f724ccca9dd9c2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "technology/aws/S3 Bucket Policy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "55a7baf5b318abeb",
             "type": "leaf",
             "state": {
@@ -80,7 +32,7 @@
             }
           },
           {
-            "id": "f3bcb3b9c6703526",
+            "id": "4ea13e5e158e63f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -90,33 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4ea13e5e158e63f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sapienza/Admin Things.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb6ec90659530f48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -182,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sapienza/Admin Things.md",
+                "file": "Sapienza/Study Abroad/NTU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sapienza/Admin Things.md",
+                "file": "Sapienza/Study Abroad/NTU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sapienza/Admin Things.md"
+                "file": "Sapienza/Study Abroad/NTU.md"
               }
             }
           },
@@ -270,11 +198,12 @@
   },
   "active": "4ea13e5e158e63f7",
   "lastOpenFiles": [
+    "README.md",
     "Sapienza/Study Abroad/NTU.md",
+    "Sapienza/Admin Things.md",
     "Sapienza/Study Abroad/ULB.md",
     "Sapienza/Study Abroad/Links.md",
     "Sapienza/1st Semester/FDS/Exam Revision Links.md",
-    "README.md",
     "technology/aws/S3 Bucket Policy.md",
     "technology/Local PySpark Installation.md",
     "Sapienza/1st Semester/FDS/FDS Project Ideas.md"
