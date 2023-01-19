@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5b6542541fec4210",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sapienza/Study Abroad/Tokyo Institute of Technology.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sapienza/Study Abroad/NTU.md",
+                "file": "Sapienza/Study Abroad/Tokyo Institute of Technology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sapienza/Study Abroad/NTU.md",
+                "file": "Sapienza/Study Abroad/Tokyo Institute of Technology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sapienza/Study Abroad/NTU.md"
+                "file": "Sapienza/Study Abroad/Tokyo Institute of Technology.md"
               }
             }
           },
@@ -196,10 +208,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4ea13e5e158e63f7",
+  "active": "5b6542541fec4210",
   "lastOpenFiles": [
-    "Sapienza/Study Abroad/ULB.md",
     "Sapienza/Study Abroad/NTU.md",
+    "Sapienza/Study Abroad/ULB.md",
     "README.md",
     "Sapienza/Admin Things.md",
     "Sapienza/Study Abroad/Links.md",
