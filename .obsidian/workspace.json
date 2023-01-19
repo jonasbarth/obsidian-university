@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sapienza/Study Abroad/NTU.md",
+                "file": "Sapienza/Study Abroad/Free Movers/NTU.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sapienza/Study Abroad/Tokyo Institute of Technology.md",
+                "file": "Sapienza/Study Abroad/Free Movers/NTU.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e0523deff7622ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sapienza/Study Abroad/Free Movers/README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sapienza/Study Abroad/Tokyo Institute of Technology.md",
+                "file": "Sapienza/Study Abroad/Free Movers/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sapienza/Study Abroad/Tokyo Institute of Technology.md",
+                "file": "Sapienza/Study Abroad/Free Movers/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sapienza/Study Abroad/Tokyo Institute of Technology.md"
+                "file": "Sapienza/Study Abroad/Free Movers/README.md"
               }
             }
           },
@@ -208,13 +220,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5b6542541fec4210",
+  "active": "4e0523deff7622ab",
   "lastOpenFiles": [
-    "Sapienza/Study Abroad/NTU.md",
+    "Sapienza/Study Abroad/Free Movers/NTU.md",
+    "Sapienza/Study Abroad/Free Movers/Tokyo Institute of Technology.md",
+    "Sapienza/Study Abroad/Links.md",
     "Sapienza/Study Abroad/ULB.md",
     "README.md",
     "Sapienza/Admin Things.md",
-    "Sapienza/Study Abroad/Links.md",
     "Sapienza/1st Semester/FDS/Exam Revision Links.md",
     "technology/aws/S3 Bucket Policy.md",
     "technology/Local PySpark Installation.md",
