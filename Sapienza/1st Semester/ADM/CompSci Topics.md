@@ -1,0 +1,26 @@
+- Algorithms
+- Analysis
+- Running Time
+- Optimality
+- Recursion
+- Dynamic Programming
+- Complexity Classes
+- Binary Search
+- Sorting Algorithmis:
+	- Quicksort
+	- Insertion sort
+	- Merge sort
+	- Heap sort
+- Data Structures
+	- Queue
+	- Stack
+	- Heap
+	- Priority Queue
+	- Linked Lists
+	- Dictionary/Hashmap
+- Hashing
+- Graph Algorithms
+	- BFS
+	- DFS
+	- Dijkstra
+	- Mincut

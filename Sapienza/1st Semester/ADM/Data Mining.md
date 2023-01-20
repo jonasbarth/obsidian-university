@@ -1,0 +1,17 @@
+- Data Types
+- Distance Measures
+	- Jaccard
+	- LP
+	- Cosine
+	- Edit
+- Similarity
+- Nearest Neighbour Search
+- Inverted Index
+- Clustering
+	- Hierarchical
+	- Kmeans
+	- Kmeans++
+- PCA
+- Centrality Measure
+- Page Rank
+- Map Reduce
