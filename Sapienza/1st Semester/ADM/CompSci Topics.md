@@ -8,15 +8,15 @@
 - Dynamic Programming
 - Complexity Classes
 	- **P**olynomial - problems that can be **solved** and **verified** in polynomial time $O(n^c)$ 
-	- **N**on-**P**olynomial - problems that can be **verified** in polynomial time, but not **solved**.
+	- **N**on-**P**olynomial - problems that can be **verified** in polynomial time, but not **solved**. E.g. Hamiltonian cycle.
 	- **NP Complete** - problems that:
 		- are in **NP**
 		- every problem in **NP** can be reduced to
-	- **NP Hard** - problems where solutions **cannot** be **verified** in **polynomial** time.
+	- **NP Hard** - problems where solutions **cannot** be **verified** in **polynomial** time. E.g. chess board configurations
 - Binary Search
 - Sorting Algorithmis:
-	- Quicksort
-	- Insertion sort
+	- Quicksort - pick a random pivot, put smaller items to the left and larger items to right of pivot, recursively.
+	- Insertion sort - create a ne
 	- Merge sort
 	- Heap sort
 - Data Structures
