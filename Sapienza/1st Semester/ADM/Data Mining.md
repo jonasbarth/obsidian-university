@@ -88,6 +88,7 @@ An improved kmeans because the random initialisation of centroids doesn't always
 3. Pick point $x$ with probability $D_s(x)^2$ as the next centre. Squaring means that further away points have a higher probability of being chosen. 
 
 ## PCA
+Used to project the data down into a lower dimension along the axes of most variance in the data.
 
 ## Centrality Measure
 
