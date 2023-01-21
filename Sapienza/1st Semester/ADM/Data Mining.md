@@ -1,4 +1,23 @@
-- Data Types
+-   [Data Types](#Data-Types)
+-   Distance Measures
+    -   Jaccard
+    -   LP
+    -   Cosine
+    -   Edit
+-   Similarity
+-   Nearest Neighbour Search
+-   Inverted Index
+-   Clustering
+    -   Hierarchical
+    -   Kmeans
+    -   Kmeans++
+-   PCA
+-   Centrality Measure
+-   Page Rank
+-   Map Reduce 
+
+
+## Data Types
 - Distance Measures
 	- Jaccard
 		- Similarity, how similar two sets are. But only takes into account the number of objects, not the content of objects. $$\frac{| S_1 \cap S_1 |}{| S_1 \cup S_2 |}$$
