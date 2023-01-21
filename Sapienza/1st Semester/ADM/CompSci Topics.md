@@ -1,10 +1,18 @@
 - Algorithms
 - Analysis
 - Running Time
+	- $O$ -> bounded above
+	- $\Theta$ -> bounded above and below 
 - Optimality
 - Recursion
 - Dynamic Programming
 - Complexity Classes
+	- **P**olynomial - problems that can be **solved** and **verified** in polynomial time $O(n^c)$ 
+	- **N**on-**P**olynomial - problems that can be **verified** in polynomial time, but not **solved**.
+	- **NP Complete** - problems that:
+		- are in **NP**
+		- every problem in **NP** can be reduced to
+	- **NP Hard** - problems where solutions **cannot** be **verified** in **polynomial** time.
 - Binary Search
 - Sorting Algorithmis:
 	- Quicksort
