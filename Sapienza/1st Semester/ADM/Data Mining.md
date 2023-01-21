@@ -1,6 +1,8 @@
 - Data Types
 - Distance Measures
 	- Jaccard
+		- Similarity, how similar two sets are. $$\frac{| S_1 \cap S_1 |}{| S_1 \cup S_2 |}$$
+		- Distance between two sets. $$1 - \frac{| S_1 \cap S_1 |}{| S_1 \cup S_2 |}$$
 	- LP
 	- Cosine
 	- Edit
