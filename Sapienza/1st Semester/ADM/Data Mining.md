@@ -36,8 +36,12 @@
 		Kmeans algorithm, randomly initialise $k$ centroids, assign the closest points to the centroids, recalculate centroids, and repeat until convergence.
 	- Kmeans++
 		An improved kmeans because the random initialisation of centroids doesn't always produce good results. The centroid initialisation is done such that they are spread more evenly. 
+		1. Chose the first centre $c_1$ uniformly at random.
+		2. For each point $x$, find the nearest centre. $$D_s(x) = \min_{c \in C} || x - c ||$$
+		3. Pick point $x$ with probability $D_s(x)^2$ as the next centre. Squaring means that further away points have a higher probability of being chosen.
 - PCA
 - Centrality Measure
-	- 
+	- degree centrality, count the number of neighbours each node has and normalise over max neighbours. $$\frac{degree(v)}{n -1}$$
+	- closeness centrality, 
 - Page Rank
 - Map Reduce
