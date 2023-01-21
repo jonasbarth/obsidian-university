@@ -1,9 +1,9 @@
 - Data Types
 - Distance Measures
 	- Jaccard
-		- Similarity, how similar two sets are. $$\frac{| S_1 \cap S_1 |}{| S_1 \cup S_2 |}$$
+		- Similarity, how similar two sets are. But only takes into account the number of objects, not the content of objects. $$\frac{| S_1 \cap S_1 |}{| S_1 \cup S_2 |}$$
 		- Distance between two sets. $$1 - \frac{| S_1 \cap S_1 |}{| S_1 \cup S_2 |}$$
-	- LP
+	- LP/Minkowski Distance. $$\left( \sum_{i=1}^{n} |x_i - y_i|^p)^{1/p}$$
 	- Cosine
 	- Edit
 - Similarity
