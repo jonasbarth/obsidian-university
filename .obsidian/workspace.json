@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sapienza/1st Semester/ADM/CompSci Topics.md",
+                "file": "Sapienza/1st Semester/ADM/Data Mining.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sapienza/1st Semester/ADM/CompSci Topics.md",
+                "file": "Sapienza/1st Semester/ADM/Data Mining.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sapienza/1st Semester/ADM/CompSci Topics.md",
+                "file": "Sapienza/1st Semester/ADM/Data Mining.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sapienza/1st Semester/ADM/CompSci Topics.md"
+                "file": "Sapienza/1st Semester/ADM/Data Mining.md"
               }
             }
           },
@@ -246,8 +246,8 @@
   },
   "active": "286344da39fe6c42",
   "lastOpenFiles": [
-    "Sapienza/1st Semester/ADM/Data Mining.md",
     "Sapienza/1st Semester/ADM/CompSci Topics.md",
+    "Sapienza/1st Semester/ADM/Data Mining.md",
     "Sapienza/Study Abroad/Free Movers/README.md",
     "Sapienza/Study Abroad/Free Movers/NTU.md",
     "Sapienza/Study Abroad/Free Movers/Tokyo Institute of Technology.md",
