@@ -88,7 +88,9 @@ An improved kmeans because the random initialisation of centroids doesn't always
 3. Pick point $x$ with probability $D_s(x)^2$ as the next centre. Squaring means that further away points have a higher probability of being chosen. 
 
 ## PCA
-Finds new axes in the data that represent the most variance. A principal component is one of these axes. The first PC will be one that captures the maximum amount of variance. If we had 2 dimensions, this would be a line. Used to project the data down into a lower dimension along the axes of most variance in the data.
+Finds new axes in the data that represent the most variance. A principal component is one of these axes. The first PC will be one that captures the maximum amount of variance. If we had 2 dimensions, this would be a line. All of the following PCs are always **orthogonal** to the other ones. Usually, we order the PCAs according to amount of variance they represent from most to least. Each PC is a **vector of values** that signify how much each of the dimensions is needed to create the PC. To project a sample into the PC, we do a dot product of the PC and the sample, so that we multiply each dimension in the PC with each dimension in the sample. $$pc \cdot X$$
+
+We can then use the PCA values to Used to project the data down into a lower dimension along the axes of most variance in the data.
 
 ## Centrality Measure
 
