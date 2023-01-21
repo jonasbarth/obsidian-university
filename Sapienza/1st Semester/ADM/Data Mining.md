@@ -3,8 +3,8 @@
 	- Jaccard
 		- Similarity, how similar two sets are. But only takes into account the number of objects, not the content of objects. $$\frac{| S_1 \cap S_1 |}{| S_1 \cup S_2 |}$$
 		- Distance between two sets. $$1 - \frac{| S_1 \cap S_1 |}{| S_1 \cup S_2 |}$$
-	- LP/Minkowski Distance. $$\left( \sum_{i=1}^{n} |x_i - y_i|^p)^{1/p}$$
-	- Cosine
+	- LP/Minkowski Distance. As $p \to \infty$ dimensions where the differences are large will start to dominate as they are weighted more. $$\left( \sum_{i=1}^{n} |x_i - y_i|^p) \right)^{1/p}$$
+	- Cosine. Calculates the angle between two vectors, when we don't care about magnitude, e.g. document similarity irrespective of their size. $$\frac{A \dot B}{}$$
 	- Edit
 - Similarity
 - Nearest Neighbour Search
