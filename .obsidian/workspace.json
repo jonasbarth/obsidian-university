@@ -102,9 +102,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6ac55019ae7928fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sapienza/1st Semester/ADM/Data Mining.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -256,7 +268,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "380c37fb13a9ddf3",
+  "active": "6ac55019ae7928fb",
   "lastOpenFiles": [
     "Sapienza/1st Semester/ADM/CompSci Topics.md",
     "Sapienza/1st Semester/ADM/Data Mining.md",
