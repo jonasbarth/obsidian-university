@@ -16,12 +16,12 @@
 - Binary Search
 - Sorting Algorithmis:
 	- Quicksort - pick a random pivot, put smaller items to the left and larger items to right of pivot, recursively.
-	- Insertion sort - create a ne
-	- Merge sort
-	- Heap sort
+	- Insertion sort - have a sorted part in the list that we keep adding items into, using pairwise swapping and comparison.
+	- Merge sort - divide the array into subarrays and sort when merging
+	- Heap sort - build max heap of data, remove the root and put at the end of the list, create max heap of `arr[:n-1]`
 - Data Structures
-	- Queue
-	- Stack
+	- Queue - FIFO
+	- Stack 
 	- Heap
 	- Priority Queue
 	- Linked Lists
