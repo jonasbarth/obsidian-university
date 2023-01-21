@@ -1,29 +1,29 @@
--   Algorithms
--   Analysis
--   Running Time
--   Optimality
--   Recursion
--   Dynamic Programming
--   Complexity Classes
--   Binary Search
--   Sorting Algorithmis:
-    -   Quicksort
-    -   Insertion sort
-    -   Merge sort
-    -   Heap sort
--   Data Structures
-    -   Queue
-    -   Stack
-    -   Heap
-    -   Priority Queue
-    -   Linked Lists
-    -   Dictionary/Hashmap
--   Hashing
--   Graph Algorithms
-    -   BFS
-    -   DFS
-    -   Dijkstra
-    -   Mincut
+-   [[#Algorithms]]
+-   [[#Analysis]]
+-   [[#Running Time]]
+-   [[#Optimality]]
+-   [[#Recursion]]
+-   [[#Dynamic Programming]]
+-   [[#Complexity Classes]]
+-   [[#Binary Search]]
+-   [[#Sorting Algorithms]]
+    -   [[#Quicksort]]
+    -   [[#Insertion sort]]
+    -   [[#Merge sort]]
+    -   [[#Heap sort]]
+-   [[#Data Structures]]
+    -   [[#Queue]]
+    -   [[#Stack]]
+    -   [[#Heap]]
+    -   [[#Priority Queue]]
+    -   [[#Linked Lists]]
+    -   [[#Dictionary/Hashmap]]
+-   [[#Hashing]]
+-   [[#Graph Algorithms]]
+    -   [[#BFS]]
+    -   [[#DFS]]
+    -   [[#Dijkstra]]
+    -   [[#Mincut]]
 
  
 ## Algorithms
@@ -41,16 +41,24 @@ $\Theta$ -> bounded above and below
 ## Dynamic Programming
 
 ## Complexity Classes
-	- **P**olynomial - problems that can be **solved** and **verified** in polynomial time $O(n^c)$ 
-	- **N**on-**P**olynomial - problems that can be **verified** in polynomial time, but not **solved**. E.g. Hamiltonian cycle.
-	- **NP Complete** - problems that:
-		- are in **NP**
-		- every problem in **NP** can be reduced to
-	- **NP Hard** - problems where solutions **cannot** be **verified** in **polynomial** time. E.g. chess board configurations
+
+### **P**olynomial
+problems that can be **solved** and **verified** in polynomial time $O(n^c)$ 
+
+### **N**ondeterministic-**P**olynomial
+problems that can be **verified** in polynomial time, but not **solved**. E.g. Hamiltonian cycle.
+
+### **NP Complete**
+problems that:
+	- are in **NP**
+	- every problem in **NP** can be reduced to
+
+### **NP Hard**
+Problems where solutions **cannot** be **verified** in **polynomial** time. E.g. chess board configurations
 
 ## Binary Search
 
-## Sorting Algorithmis:
+## Sorting Algorithms
 
 ### Quicksort 
 pick a random pivot, put smaller items to the left and larger items to right of pivot, recursively.
@@ -66,16 +74,36 @@ build max heap of data, remove the root and put at the end of the list, create m
 
 ## Data Structures
 
-### Queue - FIFO
-### Stack - LIFO
+### Queue
+FIFO
+
+### Stack
+LIFO
+
 ### Heap
+A binary tree where the min/max element can be accessed in constant time.
+
 ### Priority Queue
+A min/max heap where each element is assigned a priority.
+
 ### Linked Lists
+
+
 ### Dictionary/Hashmap
-- Hashing
-	- A one way function to map an object to a bit string
-- Graph Algorithms
-	- BFS - explore all neighbours first
-	- DFS - explore a single neighbour first
-	- Dijkstra - for finding the shortest path between one two nodes in a graph. From the start node, create a path for each neighbouring nodes and calculate the cost. Put everything inside a priority queue and keep appending to the shortest path until you have reached the end node. 
-	- Mincut - remove edges from a graph to create two disconnected graphs such that the sum/number of the removed edges is the minimum. Randomly merge two nodes, removing all edges that connect the nodes. Keep doing this until we have two nodes left. The edges between the two remaining nodes are the min cut. Since we choose the edges to contract uniformly random, we are unlikely to choose an edge that is part of the min cut.
+
+## Hashing
+A one way function to map an object to a bit string. 
+
+## Graph Algorithms
+
+### BFS
+Explore all neighbours first
+
+### DFS
+Explore a single neighbour first
+
+### Dijkstra
+for finding the shortest path between one two nodes in a graph. From the start node, create a path for each neighbouring nodes and calculate the cost. Put everything inside a priority queue and keep appending to the shortest path until you have reached the end node. 
+
+### Mincut
+remove edges from a graph to create two disconnected graphs such that the sum/number of the removed edges is the minimum. Randomly merge two nodes, removing all edges that connect the nodes. Keep doing this until we have two nodes left. The edges between the two remaining nodes are the min cut. Since we choose the edges to contract uniformly random, we are unlikely to choose an edge that is part of the min cut.
