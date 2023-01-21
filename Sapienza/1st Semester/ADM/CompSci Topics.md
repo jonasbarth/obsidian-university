@@ -1,31 +1,77 @@
-- Algorithms
-- Analysis
-- Running Time
-	- $O$ -> bounded above
-	- $\Theta$ -> bounded above and below 
-- Optimality
-- Recursion
-- Dynamic Programming
-- Complexity Classes
+-   Algorithms
+-   Analysis
+-   Running Time
+-   Optimality
+-   Recursion
+-   Dynamic Programming
+-   Complexity Classes
+-   Binary Search
+-   Sorting Algorithmis:
+    -   Quicksort
+    -   Insertion sort
+    -   Merge sort
+    -   Heap sort
+-   Data Structures
+    -   Queue
+    -   Stack
+    -   Heap
+    -   Priority Queue
+    -   Linked Lists
+    -   Dictionary/Hashmap
+-   Hashing
+-   Graph Algorithms
+    -   BFS
+    -   DFS
+    -   Dijkstra
+    -   Mincut
+
+ 
+## Algorithms
+
+## Analysis
+
+## Running Time
+$O$ -> bounded above
+$\Theta$ -> bounded above and below 
+
+## Optimality
+
+## Recursion
+
+## Dynamic Programming
+
+## Complexity Classes
 	- **P**olynomial - problems that can be **solved** and **verified** in polynomial time $O(n^c)$ 
 	- **N**on-**P**olynomial - problems that can be **verified** in polynomial time, but not **solved**. E.g. Hamiltonian cycle.
 	- **NP Complete** - problems that:
 		- are in **NP**
 		- every problem in **NP** can be reduced to
 	- **NP Hard** - problems where solutions **cannot** be **verified** in **polynomial** time. E.g. chess board configurations
-- Binary Search
-- Sorting Algorithmis:
-	- Quicksort - pick a random pivot, put smaller items to the left and larger items to right of pivot, recursively.
-	- Insertion sort - have a sorted part in the list that we keep adding items into, using pairwise swapping and comparison.
-	- Merge sort - divide the array into subarrays and sort when merging
-	- Heap sort - build max heap of data, remove the root and put at the end of the list, create max heap of `arr[:n-1]`
-- Data Structures
-	- Queue - FIFO
-	- Stack - LIFO
-	- Heap
-	- Priority Queue
-	- Linked Lists
-	- Dictionary/Hashmap
+
+## Binary Search
+
+## Sorting Algorithmis:
+
+### Quicksort 
+pick a random pivot, put smaller items to the left and larger items to right of pivot, recursively.
+
+### Insertion sort
+have a sorted part in the list that we keep adding items into, using pairwise swapping and comparison.
+
+### Merge sort
+divide the array into subarrays and sort when merging
+
+### Heap sort
+build max heap of data, remove the root and put at the end of the list, create max heap of `arr[:n-1]`
+
+## Data Structures
+
+### Queue - FIFO
+### Stack - LIFO
+### Heap
+### Priority Queue
+### Linked Lists
+### Dictionary/Hashmap
 - Hashing
 	- A one way function to map an object to a bit string
 - Graph Algorithms
