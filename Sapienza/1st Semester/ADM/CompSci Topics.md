@@ -21,14 +21,15 @@
 	- Heap sort - build max heap of data, remove the root and put at the end of the list, create max heap of `arr[:n-1]`
 - Data Structures
 	- Queue - FIFO
-	- Stack 
+	- Stack - LIFO
 	- Heap
 	- Priority Queue
 	- Linked Lists
 	- Dictionary/Hashmap
 - Hashing
+	- A one way function to map an object to a bit string
 - Graph Algorithms
-	- BFS
-	- DFS
-	- Dijkstra
+	- BFS - explore all neighbours first
+	- DFS - explore a single neighbour first
+	- Dijkstra - for finding the shortest distance between one node and all nodes in a graph. From the start node, 
 	- Mincut
