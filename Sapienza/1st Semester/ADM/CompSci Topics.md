@@ -42,19 +42,21 @@ $\Theta$ -> bounded above and below
 
 ## Complexity Classes
 
-### **P**olynomial
-problems that can be **solved** and **verified** in polynomial time $O(n^c)$ 
+### Polynomial (P)
+Problems that can be **solved** and **verified** in polynomial time $O(n^c)$ 
 
-### **N**ondeterministic-**P**olynomial
+### **N**ondeterministic-Polynomial (NP)
 problems that can be **verified** in polynomial time, but not **solved**. E.g. Hamiltonian cycle.
 
 ### **NP Complete**
 problems that:
-	- are in **NP**
-	- every problem in **NP** can be reduced to
+- are in **NP**
+- every problem in **NP** can be reduced to
+
+for example, clique problem.
 
 ### **NP Hard**
-Problems where solutions **cannot** be **verified** in **polynomial** time. E.g. chess board configurations
+Problems where solutions **cannot** be **verified** in **polynomial** time. E.g. TSP.
 
 ## Binary Search
 
@@ -87,7 +89,7 @@ A binary tree where the min/max element can be accessed in constant time.
 A min/max heap where each element is assigned a priority.
 
 ### Linked Lists
-
+A list where insertion is fast but access is slow.
 
 ### Dictionary/Hashmap
 
@@ -97,7 +99,7 @@ A one way function to map an object to a bit string.
 ## Graph Algorithms
 
 ### BFS
-Explore all neighbours first
+Explore all neighbours first.
 
 ### DFS
 Explore a single neighbour first
