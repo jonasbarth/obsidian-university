@@ -42,6 +42,7 @@
 - PCA
 - Centrality Measure
 	- degree centrality, count the number of neighbours each node has and normalise over max neighbours. $$\frac{degree(v)}{n -1}$$
-	- closeness centrality, 
+	- closeness centrality, finds nodes that can easily spread information throughout a graph. We normalise over sum the number of hops it takes to get to a node when taking the shortest path, for all other nodes. This is the average length of shortest paths basically and tells us how easy it is to reach this node. $$\frac{1}{\sum_{u \in V} dist(u, v)} \frac{N - 1}{1}$$
+	- betweenness centrality, we check how many times a node appears in all possible shortest paths through the network. If it appears often, it means that it is central. $g_v(u, w)$ is the number of shortest paths between nodes $u$ and $w$ that **pass** through $v$. $$\sum_{u, w \in V \backslash \{v\}} \frac{g_v(u, w)}{g(u, w)}$$
 - Page Rank
 - Map Reduce
