@@ -20,10 +20,15 @@
 			  return 1 + lcs(s, t, i + 1, j + 1)
 		  return max(lcs(s, t, i + 1, j), lcs(s, t, i, j + 1)) 
 		```
-- Nearest Neighbour Search
+- Nearest Neighbour Search, finding the point that is closest to another point in a set of points.
 - Inverted Index
 - Clustering
-	- Hierarchical
+	- Hierarchical.
+		- Divise
+			  We start with a single cluster and break it up until we end up with k clusters.
+		 - Agglomorative
+			  Start with k clusters and merge the two closest ones.
+		Depending on the similarity measure used 
 	- Kmeans
 	- Kmeans++
 - PCA
