@@ -109,14 +109,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sapienza/1st Semester/ADM/Data Mining.md",
+                "file": "Sapienza/1st Semester/ADM/CompSci Topics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b049c5611b25155a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sapienza/1st Semester/ADM/Exam Checklist.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -182,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sapienza/1st Semester/ADM/Data Mining.md",
+                "file": "Sapienza/1st Semester/ADM/Exam Checklist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sapienza/1st Semester/ADM/Data Mining.md",
+                "file": "Sapienza/1st Semester/ADM/Exam Checklist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sapienza/1st Semester/ADM/Data Mining.md"
+                "file": "Sapienza/1st Semester/ADM/Exam Checklist.md"
               }
             }
           },
@@ -268,7 +280,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6ac55019ae7928fb",
+  "active": "b049c5611b25155a",
   "lastOpenFiles": [
     "Sapienza/1st Semester/ADM/CompSci Topics.md",
     "Sapienza/1st Semester/ADM/Data Mining.md",
