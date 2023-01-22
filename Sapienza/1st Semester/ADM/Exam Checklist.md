@@ -41,4 +41,6 @@ How?
 6. The vector becomes a row in the signature matrix. Each column in the signature matrix corresponds to a data sample.
 7. Permute the rows of the shingle matrix and repeat the process of finding the index of the column of the first 1.
 8. Divide the signature matrix into $b$ bands where each band has $r$ rows. 
-9. For each column (data sample), we look at each band and place it into a bucket. Two bands that have the same values will end up in the same bucket.
+9. For each column (data sample), we look at each band and place it into a bucket. Two bands that have the same values will end up in the same bucket. A small $b$ means that each bands has a large number of rows $r$, and most documents will be considered to be similar. A large $b$  means that each band has a small number of rows $r$ and most documents will be considered differently.
+
+When running a query to find similar elements, we repeat these steps and then see which bucket the query ends up in. 
