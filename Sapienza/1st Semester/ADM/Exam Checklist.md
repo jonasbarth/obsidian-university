@@ -26,3 +26,9 @@
 	- [x] Visualisation 4
 	- [x] Visualisation 5
 	- [x] Algorithmic Question
+
+## HW3
+
+### LSH
+Local Sensitivity Hashing is a method for dimensionality reduction.
+
