@@ -2,9 +2,9 @@
 ## Homeworks
 
 - [ ] HW2
-	- [ ] RQ3
-	- [ ] RQ8
-	- [ ] BQ B
+	- [x] RQ3
+	- [x] RQ8
+	- [ ] BQ A
 	- [ ] AQ1
 	- [ ] AQ2
 - [ ] HW3
@@ -20,9 +20,9 @@
 	- [ ] signature matrix of question 1
 	- [ ] features for question 2
 	- [ ] map reduce kmeans
-- [ ] HW5
-	- [ ] Functionality 1
-	- [ ] Functionality 4
-	- [ ] Visualisation 4
-	- [ ] Visualisation 5
-	- [ ] Algorithmic Question
+- [x] HW5
+	- [x] Functionality 1
+	- [x] Functionality 4
+	- [x] Visualisation 4
+	- [x] Visualisation 5
+	- [x] Algorithmic Question
