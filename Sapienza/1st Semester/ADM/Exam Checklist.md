@@ -34,5 +34,7 @@ Local Sensitivity Hashing is a method for dimensionality reduction.
 
 How?
 1. Bin each feature
-2. Create shingles, i.e. a list of all possible bins `[feature_1_bin_1, feature_1_bin_2...]`
-3. Create a one hot vector of each sample wrt the shingles that 
+2. Create shingles, i.e. a list of all possible bins `[feature_1_bin_1, feature_1_bin_2, feature_2_bin1...]`
+3. Create a shingle matrix where rows are one hot vectors of each sample wrt the shingles that they have `[0, 1, 1...]`. 
+4. Transpose the shingle matrix such that shingles are rows and samples are columns.
+5. 
