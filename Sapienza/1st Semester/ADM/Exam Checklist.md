@@ -5,8 +5,8 @@
 	- [x] RQ3
 	- [x] RQ8
 	- [x] BQ A
-	- [ ] AQ1
-	- [ ] AQ2
+	- [x] AQ1
+	- [x] AQ2
 - [ ] HW3
 	- [x] Parsing
 	- [x] Create Conjunctive Index
