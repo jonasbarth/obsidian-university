@@ -40,3 +40,4 @@ How?
 5. For each row in the transposed matrix, find the index of the column where we find the first 1, and create a vector of them.
 6. The vector becomes a row in the signature matrix. Each row in the signature matrix
 7. Permute the rows of the shingle matrix and repeat the process of finding the index of the column of the first 1.
+8. Divide the signature matrix into $b$ bands where each 
