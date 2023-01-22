@@ -4,22 +4,22 @@
 - [ ] HW2
 	- [x] RQ3
 	- [x] RQ8
-	- [ ] BQ A
+	- [x] BQ A
 	- [ ] AQ1
 	- [ ] AQ2
 - [ ] HW3
-	- [ ] Parsing
-	- [ ] Create Conjunctive Index
-	- [ ] Create TF-IDF Index
-	- [ ] Query TF-IDF Index
-	- [ ] New Score
-	- [ ] AQ
+	- [x] Parsing
+	- [x] Create Conjunctive Index
+	- [x] Create TF-IDF Index
+	- [x] Query TF-IDF Index
+	- [x] New Score
+	- [x] AQ
 - [ ] HW4
 	- [ ] algorithmic question
 	- [ ] command line
-	- [ ] signature matrix of question 1
-	- [ ] features for question 2
-	- [ ] map reduce kmeans
+	- [x] signature matrix of question 1
+	- [x] features for question 2
+	- [x] map reduce kmeans
 - [x] HW5
 	- [x] Functionality 1
 	- [x] Functionality 4
