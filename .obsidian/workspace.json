@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sapienza/Study Abroad/Free Movers/NTU/Courses/Computer Vision.md",
+                "file": "Sapienza/Study Abroad/Free Movers/NTU/Courses/Blockchain and Big Data.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sapienza/Study Abroad/Free Movers/NTU/Courses/Computer Vision.md",
+                "file": "Sapienza/Study Abroad/Free Movers/NTU/Courses/Blockchain and Big Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sapienza/Study Abroad/Free Movers/NTU/Courses/Computer Vision.md",
+                "file": "Sapienza/Study Abroad/Free Movers/NTU/Courses/Blockchain and Big Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sapienza/Study Abroad/Free Movers/NTU/Courses/Computer Vision.md"
+                "file": "Sapienza/Study Abroad/Free Movers/NTU/Courses/Blockchain and Big Data.md"
               }
             }
           },
@@ -187,12 +187,12 @@
   },
   "active": "4b87b8b58c399905",
   "lastOpenFiles": [
-    "Sapienza/Study Abroad/Course Summary.md",
     "Sapienza/Study Abroad/Free Movers/NTU/NTU Summary.md",
+    "Sapienza/Study Abroad/Free Movers/NTU/Courses/Computer Vision.md",
+    "Sapienza/Study Abroad/Course Summary.md",
     "Sapienza/Study Abroad/Free Movers/NTU/Courses/Introduction to Biomedical Informatics.md",
     "Sapienza/Admin Things.md",
     "Sapienza/Study Abroad/Links.md",
-    "Sapienza/Study Abroad/Free Movers/NTU/Courses/Computer Vision.md",
     "templates/University Course.md",
     "Sapienza/1st Semester/ADM/Data Mining.md",
     "Sapienza/1st Semester/ADM/CompSci Topics.md",
