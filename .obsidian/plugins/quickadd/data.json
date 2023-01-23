@@ -5,10 +5,10 @@
       "name": "University Course",
       "type": "Template",
       "command": false,
-      "templatePath": "",
+      "templatePath": "templates/University Course.md",
       "fileNameFormat": {
-        "enabled": false,
-        "format": ""
+        "enabled": true,
+        "format": "{{value}}"
       },
       "folder": {
         "enabled": false,
