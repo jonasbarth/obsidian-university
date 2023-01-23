@@ -8,78 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "55a7baf5b318abeb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sapienza/Study Abroad/Links.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "587b818940cd35f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sapienza/Study Abroad/ULB.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ea13e5e158e63f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sapienza/Study Abroad/Free Movers/NTU.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b6542541fec4210",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sapienza/Study Abroad/Free Movers/NTU.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e0523deff7622ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sapienza/Study Abroad/Free Movers/README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aaceaae68e051e2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sapienza/1st Semester/ADM/CompSci Topics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "286344da39fe6c42",
             "type": "leaf",
             "state": {
@@ -128,19 +56,19 @@
             }
           },
           {
-            "id": "f3c0ae3db5d5d85f",
+            "id": "3bb737a63a1538eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sapienza/Study Abroad/Free Movers/NTU.md",
+                "file": "templates/University Course.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -190,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 287.5
   },
   "right": {
     "id": "51974ca5f95cfa5c",
@@ -206,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sapienza/Study Abroad/Free Movers/NTU.md",
+                "file": "templates/University Course.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sapienza/Study Abroad/Free Movers/NTU.md",
+                "file": "templates/University Course.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sapienza/Study Abroad/Free Movers/NTU.md"
+                "file": "templates/University Course.md"
               }
             }
           },
@@ -279,7 +207,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 292.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -292,14 +220,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f3c0ae3db5d5d85f",
+  "active": "f4f3c0a52798079e",
   "lastOpenFiles": [
+    "Sapienza/Study Abroad/Free Movers/NTU.md",
     "Sapienza/1st Semester/ADM/Data Mining.md",
     "Sapienza/1st Semester/ADM/CompSci Topics.md",
     "technology/cloud/ntinker no display.md",
     "Sapienza/1st Semester/ADM/Exam Checklist.md",
     "Sapienza/Study Abroad/Free Movers/README.md",
-    "Sapienza/Study Abroad/Free Movers/NTU.md",
     "Sapienza/Study Abroad/Free Movers/Tokyo Institute of Technology.md",
     "Sapienza/Study Abroad/Links.md",
     "Sapienza/Study Abroad/ULB.md",
