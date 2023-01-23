@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technology/cloud/ntinker no display.md",
+                "file": "Sapienza/1st Semester/ADM/Data Mining.md",
                 "mode": "source",
                 "source": false
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technology/cloud/ntinker no display.md",
+                "file": "Sapienza/1st Semester/ADM/Data Mining.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technology/cloud/ntinker no display.md",
+                "file": "Sapienza/1st Semester/ADM/Data Mining.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "technology/cloud/ntinker no display.md"
+                "file": "Sapienza/1st Semester/ADM/Data Mining.md"
               }
             }
           },
@@ -294,6 +294,7 @@
   },
   "active": "f3c0ae3db5d5d85f",
   "lastOpenFiles": [
+    "technology/cloud/ntinker no display.md",
     "Sapienza/1st Semester/ADM/Exam Checklist.md",
     "Sapienza/1st Semester/ADM/CompSci Topics.md",
     "Sapienza/1st Semester/ADM/Data Mining.md",
@@ -302,7 +303,6 @@
     "Sapienza/Study Abroad/Free Movers/Tokyo Institute of Technology.md",
     "Sapienza/Study Abroad/Links.md",
     "Sapienza/Study Abroad/ULB.md",
-    "README.md",
-    "Sapienza/Admin Things.md"
+    "README.md"
   ]
 }

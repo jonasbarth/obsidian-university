@@ -104,5 +104,6 @@ We check how many times a node appears in all possible shortest paths through th
 ## Page Rank
 
 Algorithm for determining the rank of a webpage, but can be applied to any graph. The rank of a page is determined by the rank of the pages that point to it. The more important the pages that point to a page are, the more important that page becomes. We do this instead of just counting the pages because this means you just need a lot of incoming links.  $$rank(u) = \sum_{v \to u} rank(v)$$
+We can implement pagerank using a random walk. In a random walk, we have a websurfer that starts at a random page and follows a link on that page chosen at random. Over time, we will build up a transition matrix with probabilities that tell us how likely it is to go from one page to another. To avoid dead ends, we will also have a probability of a jumping to a random page with probability $\alpha$.  
   
 ## Map Reduce
