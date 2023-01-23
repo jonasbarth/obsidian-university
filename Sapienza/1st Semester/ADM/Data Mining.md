@@ -79,7 +79,7 @@ Which partition of clusters minimises our score best? Usually NP complete unless
 - $k = n$
 - $n = 1$
 - $d = 1$ (dimensions)
-Kmeans algorithm, randomly initialise $k$ centroids, assign the closest points to the centroids, recalculate centroids, and repeat until convergence.
+Kmeans algorithm, randomly initialise $k$ centroids, assign the closest points to the centroids, recalculate centroids, and repeat until convergence. $O(n^2)$
 
 ### Kmeans++
 An improved kmeans because the random initialisation of centroids doesn't always produce good results. The centroid initialisation is done such that they are spread more evenly. 

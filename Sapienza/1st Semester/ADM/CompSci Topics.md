@@ -63,13 +63,13 @@ Problems where solutions **cannot** be **verified** in **polynomial** time. E.g.
 ## Sorting Algorithms
 
 ### Quicksort 
-pick a random pivot, put smaller items to the left and larger items to right of pivot, recursively.
+pick a random pivot, put smaller items to the left and larger items to right of pivot, recursively. $O(n^2)$ with poorly chosen pivots.
 
 ### Insertion sort
-have a sorted part in the list that we keep adding items into, using pairwise swapping and comparison.
+have a sorted part in the list that we keep adding items into, using pairwise swapping and comparison. $O(n^2$
 
 ### Merge sort
-divide the array into subarrays and sort when merging
+divide the array into subarrays and sort when merging. $O(n log n)$
 
 ### Heap sort
 build max heap of data, remove the root and put at the end of the list, create max heap of `arr[:n-1]`
@@ -99,10 +99,10 @@ A one way function to map an object to a bit string.
 ## Graph Algorithms
 
 ### BFS
-Explore all neighbours first.
+Explore all neighbours first. $O(V + E)$
 
 ### DFS
-Explore a single neighbour first
+Explore a single neighbour first. $O(V + E)$
 
 ### Dijkstra
 for finding the shortest path between one two nodes in a graph. From the start node, create a path for each neighbouring nodes and calculate the cost. Put everything inside a priority queue and keep appending to the shortest path until you have reached the end node. 
