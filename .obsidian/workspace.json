@@ -126,9 +126,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f3c0ae3db5d5d85f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "technology/cloud/ntinker no display.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -194,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sapienza/1st Semester/ADM/Exam Checklist.md",
+                "file": "technology/cloud/ntinker no display.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sapienza/1st Semester/ADM/Exam Checklist.md",
+                "file": "technology/cloud/ntinker no display.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sapienza/1st Semester/ADM/Exam Checklist.md"
+                "file": "technology/cloud/ntinker no display.md"
               }
             }
           },
@@ -280,8 +292,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b049c5611b25155a",
+  "active": "f3c0ae3db5d5d85f",
   "lastOpenFiles": [
+    "Sapienza/1st Semester/ADM/Exam Checklist.md",
     "Sapienza/1st Semester/ADM/CompSci Topics.md",
     "Sapienza/1st Semester/ADM/Data Mining.md",
     "Sapienza/Study Abroad/Free Movers/README.md",
@@ -290,7 +303,6 @@
     "Sapienza/Study Abroad/Links.md",
     "Sapienza/Study Abroad/ULB.md",
     "README.md",
-    "Sapienza/Admin Things.md",
-    "Sapienza/1st Semester/FDS/Exam Revision Links.md"
+    "Sapienza/Admin Things.md"
   ]
 }
