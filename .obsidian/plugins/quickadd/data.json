@@ -7,13 +7,13 @@
       "command": false,
       "templatePath": "templates/University Course.md",
       "fileNameFormat": {
-        "enabled": true,
+        "enabled": false,
         "format": "{{value}}"
       },
       "folder": {
-        "enabled": false,
+        "enabled": true,
         "folders": [],
-        "chooseWhenCreatingNote": false,
+        "chooseWhenCreatingNote": true,
         "createInSameFolderAsActiveFile": false
       },
       "appendLink": false,
@@ -23,7 +23,7 @@
         "direction": "vertical",
         "focus": true
       },
-      "openFile": false,
+      "openFile": true,
       "openFileInMode": "default"
     }
   ],
