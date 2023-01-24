@@ -4,71 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0a8be6c82b9b555a",
+        "id": "598a51effeeb346c",
         "type": "tabs",
         "children": [
           {
-            "id": "d6dd055d976aa353",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/ULB/ULB.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3ed4505f24b7aaaf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/ULB/Courses/NLP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "275fc1e926da14d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/ULB/Courses/Advanced Methods in Bioinformatics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "95c9dde0e6f4444a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/ULB/Courses/Advanced Databases.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7d74e1261796990d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/ULB/Courses/Learning Dynamics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "408f5f57b64bbcc1",
+            "id": "858694445d257fe1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -79,8 +19,21 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
+      },
+      {
+        "id": "6300f1eefe66b466",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19ae010544bbf5c5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sapienza/Study Abroad/Course Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sapienza/Study Abroad/Course Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Sapienza/Study Abroad/Course Summary.md"
-              }
+              "state": {}
             }
           },
           {
@@ -233,17 +182,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "408f5f57b64bbcc1",
+  "active": "f4f3c0a52798079e",
   "lastOpenFiles": [
-    "Sapienza/Study Abroad/Erasmus/ULB/Courses/Image Acquisition and Processing.md",
+    "Sapienza/Study Abroad/Free Movers/NTU/NTU Summary.md",
+    "Sapienza/Study Abroad/Course Summary.md",
     "Sapienza/Study Abroad/Erasmus/ULB/Courses/Learning Dynamics.md",
     "Sapienza/Study Abroad/Erasmus/ULB/Courses/Advanced Databases.md",
     "Sapienza/Study Abroad/Erasmus/ULB/Courses/Advanced Methods in Bioinformatics.md",
     "Sapienza/Study Abroad/Erasmus/ULB/Courses/NLP.md",
+    "Sapienza/Study Abroad/Erasmus/ULB/Courses/Image Acquisition and Processing.md",
     "Sapienza/Study Abroad/Erasmus/ULB/ULB.md",
     "Sapienza/Courses.md",
-    "Sapienza/3rd Semester/Courses/Data-Drive Modeling of Complex Systems.md",
-    "Sapienza/3rd Semester/Courses/Signal Processing for Big Data.md",
-    "Sapienza/4th Semester/Courses/Data Driven Economics.md"
+    "Sapienza/3rd Semester/Courses/Data-Drive Modeling of Complex Systems.md"
   ]
 }
