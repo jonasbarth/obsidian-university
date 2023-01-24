@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/Universitat Barcelona/Courses/Computational Vision.md",
+                "file": "Sapienza/Study Abroad/Erasmus/UPC/Courses/Computational Vision.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +37,74 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/Universitat Barcelona/Courses/Big Data Analytics.md",
+                "file": "Sapienza/Study Abroad/Erasmus/UPC/Courses/Big Data Analytics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9e5b8e24e697b48f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sapienza/Study Abroad/Erasmus/UPC/Courses/Artificial Vision & Pattern Recognition.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "afc19c7fc82acf81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sapienza/Study Abroad/Erasmus/UPC/Courses/Computational Vision.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "475a5861b16756a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sapienza/Study Abroad/Erasmus/UPC/Courses/Big Data Analytics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "21fd2eb456685f11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sapienza/Study Abroad/Erasmus/UPC/Courses/Bioinformatics and Statistical Genetics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "05a2f5e71a855ab6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sapienza/Study Abroad/Erasmus/UPC/Courses/Advanced Machine Learning.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       },
       {
         "id": "6300f1eefe66b466",
@@ -124,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/Universitat Barcelona/Courses/Big Data Analytics.md",
+                "file": "Sapienza/Study Abroad/Erasmus/UPC/Courses/Advanced Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/Universitat Barcelona/Courses/Big Data Analytics.md",
+                "file": "Sapienza/Study Abroad/Erasmus/UPC/Courses/Advanced Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/Universitat Barcelona/Courses/Big Data Analytics.md"
+                "file": "Sapienza/Study Abroad/Erasmus/UPC/Courses/Advanced Machine Learning.md"
               }
             }
           },
@@ -211,17 +271,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0eb9752ba901b1f9",
+  "active": "05a2f5e71a855ab6",
   "lastOpenFiles": [
-    "Sapienza/Study Abroad/Erasmus/Universitat Barcelona/Courses/Computational Vision.md",
-    "Sapienza/Study Abroad/Erasmus/Universitat Barcelona/Courses/Big Data Analytics.md",
+    "Sapienza/Study Abroad/Erasmus/UPC/Courses/Bioinformatics and Statistical Genetics.md",
+    "Sapienza/Study Abroad/Erasmus/UPC/Courses/Big Data Analytics.md",
+    "Sapienza/Study Abroad/Erasmus/UPC/Courses/Computational Vision.md",
+    "Sapienza/Study Abroad/Erasmus/UPC/Courses/Artificial Vision & Pattern Recognition.md",
+    "Sapienza/Study Abroad/Erasmus/UPC/Artificial Intelligence.md",
     "Sapienza/Study Abroad/Course Summary.md",
     "DIGITAL.md",
     "Sapienza/Study Abroad/Free Movers/NTU/NTU Summary.md",
     "Sapienza/Study Abroad/Erasmus/ULB/Courses/Learning Dynamics.md",
-    "Sapienza/Study Abroad/Erasmus/ULB/Courses/Advanced Databases.md",
-    "Sapienza/Study Abroad/Erasmus/ULB/Courses/Advanced Methods in Bioinformatics.md",
-    "Sapienza/Study Abroad/Erasmus/ULB/Courses/NLP.md",
-    "Sapienza/Study Abroad/Erasmus/ULB/Courses/Image Acquisition and Processing.md"
+    "Sapienza/Study Abroad/Erasmus/ULB/Courses/Advanced Databases.md"
   ]
 }
