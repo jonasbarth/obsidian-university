@@ -1,0 +1,2 @@
+Tuition
+TWD 60,720  (USD 2,024)
