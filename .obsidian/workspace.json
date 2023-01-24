@@ -114,9 +114,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "85e5b6ef64480320",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sapienza/3rd Semester/Courses/Digital Epidimeology and Precision Medicine.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d6dd055d976aa353",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sapienza/Courses.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -182,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sapienza/3rd Semester/Courses/Neural Networks for Data Science Applications.md",
+                "file": "Sapienza/Courses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sapienza/3rd Semester/Courses/Neural Networks for Data Science Applications.md",
+                "file": "Sapienza/Courses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sapienza/3rd Semester/Courses/Neural Networks for Data Science Applications.md"
+                "file": "Sapienza/Courses.md"
               }
             }
           },
@@ -269,17 +293,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1c1fbc80835b4859",
+  "active": "d6dd055d976aa353",
   "lastOpenFiles": [
-    "Sapienza/3rd Semester/Courses/Big Data Computing.md",
-    "Sapienza/3rd Semester/Courses/Bioinformatics and Network Medicine.md",
-    "Sapienza/3rd Semester/Courses/Data Privacy and Security.md",
-    "Sapienza/3rd Semester/Courses/Advanced Machine Learning.md",
     "Sapienza/Study Abroad/Course Summary.md",
-    "Sapienza/Study Abroad/Links.md",
-    "Sapienza/Study Abroad/Free Movers/NTU/Courses/Distributed Machine Learning.md",
-    "Sapienza/Study Abroad/Free Movers/NTU/NTU Summary.md",
-    "Sapienza/Study Abroad/Free Movers/NTU/Courses/Financial Technology.md",
-    "Sapienza/Study Abroad/Free Movers/NTU/Courses/Blockchain and Big Data.md"
+    "Sapienza/3rd Semester/Courses/Digital Epidimeology and Precision Medicine.md",
+    "Sapienza/3rd Semester/Courses/Neural Networks for Data Science Applications.md",
+    "Sapienza/3rd Semester/Courses/Data Privacy and Security.md",
+    "Sapienza/3rd Semester/Courses/Bioinformatics and Network Medicine.md",
+    "Sapienza/3rd Semester/Courses/Big Data for Official Statistics.md",
+    "Sapienza/3rd Semester/Courses/Big Data Computing.md",
+    "Sapienza/3rd Semester/Courses/Advanced Machine Learning.md",
+    "Sapienza/Courses.md",
+    "DIGITAL.md"
   ]
 }
