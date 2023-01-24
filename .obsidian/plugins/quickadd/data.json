@@ -25,6 +25,32 @@
       },
       "openFile": true,
       "openFileInMode": "default"
+    },
+    {
+      "id": "4b08579d-31bc-4cdd-a40d-4547b69bd4d4",
+      "name": "Fee",
+      "type": "Template",
+      "command": false,
+      "templatePath": "templates/fee.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [],
+        "chooseWhenCreatingNote": true,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": false
+      },
+      "openFile": true,
+      "openFileInMode": "default"
     }
   ],
   "macros": [],
