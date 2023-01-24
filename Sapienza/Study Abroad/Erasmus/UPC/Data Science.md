@@ -1,0 +1,1 @@
+https://www.fib.upc.edu/en/studies/masters/master-data-science/curriculum/syllabus
