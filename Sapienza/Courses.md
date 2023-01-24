@@ -1,3 +1,4 @@
 ```dataview
-TABLE Name, University, Semester, Link, ECTS, Language from "Sapienza/3rd Semester/Courses"
+TABLE Name, University, Semester, Link, ECTS, Language from "Sapienza/3rd Semester/Courses" where Semester = 3
 ```
+

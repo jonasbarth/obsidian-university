@@ -13,94 +13,74 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sapienza/Courses.md",
+                "file": "Sapienza/Study Abroad/Erasmus/ULB/ULB.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c17e5c49164e17b1",
+            "id": "3ed4505f24b7aaaf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sapienza/3rd Semester/Courses/Signal Processing for Big Data.md",
+                "file": "Sapienza/Study Abroad/Erasmus/ULB/Courses/NLP.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a07c73e1efb91acc",
+            "id": "275fc1e926da14d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sapienza/3rd Semester/Courses/Data-Drive Modeling of Complex Systems.md",
+                "file": "Sapienza/Study Abroad/Erasmus/ULB/Courses/Advanced Methods in Bioinformatics.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "411119fcbd3e9cbf",
+            "id": "95c9dde0e6f4444a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sapienza/4th Semester/Courses/Smart Environments.md",
+                "file": "Sapienza/Study Abroad/Erasmus/ULB/Courses/Advanced Databases.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9a48d0e43385d05b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "2bc965e5eb54e16d",
+            "id": "7d74e1261796990d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sapienza/4th Semester/Courses/Earth Observation Data Analysis.md",
+                "file": "Sapienza/Study Abroad/Erasmus/ULB/Courses/Learning Dynamics.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "59969417ddc9ee82",
+            "id": "408f5f57b64bbcc1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sapienza/4th Semester/Courses/Efficiency and Productivity Analysis Syllabus.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ba24d57cd4ceff9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sapienza/4th Semester/Courses/Geomatics and Geoinformation.md",
+                "file": "Sapienza/Study Abroad/Course Summary.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -166,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sapienza/4th Semester/Courses/Geomatics and Geoinformation.md",
+                "file": "Sapienza/Study Abroad/Course Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sapienza/4th Semester/Courses/Geomatics and Geoinformation.md",
+                "file": "Sapienza/Study Abroad/Course Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sapienza/4th Semester/Courses/Geomatics and Geoinformation.md"
+                "file": "Sapienza/Study Abroad/Course Summary.md"
               }
             }
           },
@@ -253,17 +233,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6ba24d57cd4ceff9",
+  "active": "408f5f57b64bbcc1",
   "lastOpenFiles": [
-    "Sapienza/4th Semester/Courses/Efficiency and Productivity Analysis Syllabus.md",
-    "Sapienza/4th Semester/Courses/Earth Observation Data Analysis.md",
-    "Sapienza/4th Semester/Courses/English.md",
-    "Sapienza/4th Semester/Courses/Smart Environments.md",
+    "Sapienza/Study Abroad/Erasmus/ULB/Courses/Image Acquisition and Processing.md",
+    "Sapienza/Study Abroad/Erasmus/ULB/Courses/Learning Dynamics.md",
+    "Sapienza/Study Abroad/Erasmus/ULB/Courses/Advanced Databases.md",
+    "Sapienza/Study Abroad/Erasmus/ULB/Courses/Advanced Methods in Bioinformatics.md",
+    "Sapienza/Study Abroad/Erasmus/ULB/Courses/NLP.md",
+    "Sapienza/Study Abroad/Erasmus/ULB/ULB.md",
+    "Sapienza/Courses.md",
     "Sapienza/3rd Semester/Courses/Data-Drive Modeling of Complex Systems.md",
     "Sapienza/3rd Semester/Courses/Signal Processing for Big Data.md",
-    "Sapienza/Courses.md",
-    "Sapienza/Study Abroad/Free Movers/NTU/Courses/Computer Vision.md",
-    "Sapienza/Study Abroad/Free Movers/NTU/Courses/Blockchain and Big Data.md",
-    "Sapienza/Study Abroad/Free Movers/NTU/NTU Summary.md"
+    "Sapienza/4th Semester/Courses/Data Driven Economics.md"
   ]
 }
