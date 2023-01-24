@@ -1,3 +1,11 @@
+## Sapienza
+
+```dataview
+TABLE University, Semester, Link, ECTS, Language from "Sapienza/3rd Semester/Courses"
+```
+
+
+
 ## NTU
 ```dataview
 TABLE University, Semester, Link, ECTS, Language from "Sapienza/Study Abroad/Free Movers/NTU/Courses"
