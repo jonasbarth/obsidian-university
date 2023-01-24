@@ -62,9 +62,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "79eb49378a63d32e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sapienza/Study Abroad/Erasmus/UPC/Erasmus Info.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sapienza/3rd Semester/Courses/Data Privacy and Security.md",
+                "file": "Sapienza/Study Abroad/Erasmus/UPC/Erasmus Info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sapienza/3rd Semester/Courses/Data Privacy and Security.md",
+                "file": "Sapienza/Study Abroad/Erasmus/UPC/Erasmus Info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sapienza/3rd Semester/Courses/Data Privacy and Security.md"
+                "file": "Sapienza/Study Abroad/Erasmus/UPC/Erasmus Info.md"
               }
             }
           },
@@ -217,8 +229,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6ddcacbc96a201c9",
+  "active": "79eb49378a63d32e",
   "lastOpenFiles": [
+    "Sapienza/3rd Semester/Courses/Data Privacy and Security.md",
     "Sapienza/Study Abroad/Course Summary.md",
     "Sapienza/Study Abroad/Erasmus/UPC/Data Science.md",
     "Sapienza/Study Abroad/Erasmus/UPC/Courses/Artificial Vision & Pattern Recognition.md",
@@ -227,7 +240,6 @@
     "Sapienza/Study Abroad/Erasmus/UPC/Courses/Human Language Engineering.md",
     "Sapienza/Study Abroad/Erasmus/UPC/Courses/Intelligent Decision Support Systems.md",
     "Sapienza/Study Abroad/Erasmus/UPC/Courses/Cloud Computing and Big Data Analytics.md",
-    "Sapienza/Study Abroad/Erasmus/UPC/Courses/Computational Vision.md",
-    "Sapienza/Study Abroad/Erasmus/UPC/Courses/Advanced Machine Learning.md"
+    "Sapienza/Study Abroad/Erasmus/UPC/Courses/Computational Vision.md"
   ]
 }
