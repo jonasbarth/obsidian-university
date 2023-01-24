@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/UPC/Erasmus Info.md",
+                "file": "Sapienza/Study Abroad/Free Movers/NTU/NTU Summary.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/UPC/Erasmus Info.md",
+                "file": "Sapienza/Study Abroad/Free Movers/NTU/NTU Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/UPC/Erasmus Info.md",
+                "file": "Sapienza/Study Abroad/Free Movers/NTU/NTU Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/UPC/Erasmus Info.md"
+                "file": "Sapienza/Study Abroad/Free Movers/NTU/NTU Summary.md"
               }
             }
           },
@@ -231,6 +231,8 @@
   },
   "active": "79eb49378a63d32e",
   "lastOpenFiles": [
+    "Sapienza/Study Abroad/Free Movers/README.md",
+    "Sapienza/Study Abroad/Erasmus/UPC/Erasmus Info.md",
     "Sapienza/3rd Semester/Courses/Data Privacy and Security.md",
     "Sapienza/Study Abroad/Course Summary.md",
     "Sapienza/Study Abroad/Erasmus/UPC/Data Science.md",
@@ -238,8 +240,6 @@
     "Sapienza/Study Abroad/Erasmus/UPC/Courses/Big Data Analytics.md",
     "Sapienza/Study Abroad/Erasmus/UPC/Courses/Bioinformatics and Statistical Genetics.md",
     "Sapienza/Study Abroad/Erasmus/UPC/Courses/Human Language Engineering.md",
-    "Sapienza/Study Abroad/Erasmus/UPC/Courses/Intelligent Decision Support Systems.md",
-    "Sapienza/Study Abroad/Erasmus/UPC/Courses/Cloud Computing and Big Data Analytics.md",
-    "Sapienza/Study Abroad/Erasmus/UPC/Courses/Computational Vision.md"
+    "Sapienza/Study Abroad/Erasmus/UPC/Courses/Intelligent Decision Support Systems.md"
   ]
 }
