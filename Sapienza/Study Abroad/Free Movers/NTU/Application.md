@@ -1,0 +1,8 @@
+- [ ] Passport photo
+- [ ] Motiviational Letter
+- [ ] Academic Transcript
+- [ ] Passport Copy
+- [ ] International Student Declaration Form
+- [ ] 2 Letters of Recommendation
+- [ ] Financial Statement
+- [ ] Certificate of Remittance for Application Fee

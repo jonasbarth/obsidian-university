@@ -15,3 +15,8 @@ https://management.ntu.edu.tw/en/ia/IncomingExchange/AcademicInformation/AcaOver
 
 College Coordinators
 https://oia.ntu.edu.tw/cm/explorer/management/InternationalStudentServices/pre_post_arrival_guidebook_nondegree/College%20Coordinators.pdf
+
+## Fees
+```dataview
+TABLE University, Period, Link, Amount, Currency from "Sapienza/Study Abroad/Free Movers/NTU/Fees"
+```
