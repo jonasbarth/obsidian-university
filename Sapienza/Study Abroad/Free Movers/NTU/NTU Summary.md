@@ -20,3 +20,7 @@ TABLE University, Period, Link, Amount, Currency from "Sapienza/Study Abroad/Fre
 ```
 GPA Rules
 https://www.aca.ntu.edu.tw/WebUPD/acaEN/GAADRules/110%E5%AD%B8%E7%94%9F%E6%88%90%E7%B8%BE%E8%A9%95%E9%87%8F%E8%BE%A6%E6%B3%95.pdf
+
+Income:
+- Julius 1100€
+- Internship (?)
