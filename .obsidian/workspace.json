@@ -101,7 +101,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sapienza/1st Semester/SDS/Exam Revision Links.md",
+                "file": "Sapienza/Study Abroad/Course Summary.md",
                 "mode": "source",
                 "source": false
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sapienza/1st Semester/SDS/Exam Revision Links.md",
+                "file": "Sapienza/Study Abroad/Course Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sapienza/1st Semester/SDS/Exam Revision Links.md",
+                "file": "Sapienza/Study Abroad/Course Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sapienza/1st Semester/SDS/Exam Revision Links.md"
+                "file": "Sapienza/Study Abroad/Course Summary.md"
               }
             }
           },
@@ -276,6 +276,7 @@
   "active": "a9e5a63382cecddd",
   "lastOpenFiles": [
     "Sapienza/Study Abroad/Free Movers/NTU/NTU Summary.md",
+    "Sapienza/1st Semester/SDS/Exam Revision Links.md",
     "Sapienza/Study Abroad/Free Movers/NTU/Application.md",
     "Sapienza/1st Semester/ADM/Exam Checklist.md",
     "Sapienza/Study Abroad/Free Movers/NTU/Fees/Application.md",
@@ -283,7 +284,6 @@
     "Sapienza/1st Semester/ADM/CompSci Topics.md",
     "Sapienza/Study Abroad/Free Movers/NTU/Fees/Programme.md",
     "Sapienza/Study Abroad/Free Movers/NTU/Fees/Tuition.md",
-    "Sapienza/Study Abroad/Course Summary.md",
-    "Sapienza/Study Abroad/Free Movers/NTU/Fees/Untitled.md"
+    "Sapienza/Study Abroad/Course Summary.md"
   ]
 }
