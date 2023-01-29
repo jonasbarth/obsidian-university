@@ -23,4 +23,4 @@ https://www.aca.ntu.edu.tw/WebUPD/acaEN/GAADRules/110%E5%AD%B8%E7%94%9F%E6%88%90
 
 Income:
 - Julius 1000€
-- Internship (?)
+- Internship 1500€

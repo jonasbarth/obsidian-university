@@ -96,6 +96,18 @@
             }
           },
           {
+            "id": "a9e5a63382cecddd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sapienza/1st Semester/SDS/Exam Revision Links.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "555de6f160a77494",
             "type": "leaf",
             "state": {
@@ -108,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -174,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sapienza/Study Abroad/Free Movers/NTU/NTU Summary.md",
+                "file": "Sapienza/1st Semester/SDS/Exam Revision Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sapienza/Study Abroad/Free Movers/NTU/NTU Summary.md",
+                "file": "Sapienza/1st Semester/SDS/Exam Revision Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sapienza/Study Abroad/Free Movers/NTU/NTU Summary.md"
+                "file": "Sapienza/1st Semester/SDS/Exam Revision Links.md"
               }
             }
           },
@@ -261,14 +273,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e852b46d572e9af8",
+  "active": "a9e5a63382cecddd",
   "lastOpenFiles": [
+    "Sapienza/Study Abroad/Free Movers/NTU/NTU Summary.md",
     "Sapienza/Study Abroad/Free Movers/NTU/Application.md",
     "Sapienza/1st Semester/ADM/Exam Checklist.md",
     "Sapienza/Study Abroad/Free Movers/NTU/Fees/Application.md",
     "Sapienza/1st Semester/ADM/Data Mining.md",
     "Sapienza/1st Semester/ADM/CompSci Topics.md",
-    "Sapienza/Study Abroad/Free Movers/NTU/NTU Summary.md",
     "Sapienza/Study Abroad/Free Movers/NTU/Fees/Programme.md",
     "Sapienza/Study Abroad/Free Movers/NTU/Fees/Tuition.md",
     "Sapienza/Study Abroad/Course Summary.md",
