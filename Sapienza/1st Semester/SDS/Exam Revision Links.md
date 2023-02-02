@@ -47,3 +47,7 @@ Pivotal CI
 
 Estimating Pop Variance
 - https://brazosport.edu/Assets/faculty/agut-ioana/statistics/20.%20Estimate%20population%20variance.pdf
+
+Methods of Moments Estimators
+- https://bookdown.org/probability/inference2/method-of-moments.html
+- https://www.youtube.com/watch?v=I2ZfKIHMb2o&list=PLdxWrq0zBgPViBm1aBlYc5rvL2w5YIMot
