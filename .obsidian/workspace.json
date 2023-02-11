@@ -108,6 +108,30 @@
             }
           },
           {
+            "id": "82172b1d4be085e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "technology/R/CI for .rmd files.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c40d5cc0b25e069",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "technology/CI/Github/How to cache steps.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "555de6f160a77494",
             "type": "leaf",
             "state": {
@@ -120,7 +144,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -186,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sapienza/1st Semester/SDS/Exam Revision Links.md",
+                "file": "technology/CI/Github/How to cache steps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sapienza/1st Semester/SDS/Exam Revision Links.md",
+                "file": "technology/CI/Github/How to cache steps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sapienza/1st Semester/SDS/Exam Revision Links.md"
+                "file": "technology/CI/Github/How to cache steps.md"
               }
             }
           },
@@ -273,17 +297,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a9e5a63382cecddd",
+  "active": "0c40d5cc0b25e069",
   "lastOpenFiles": [
+    "technology/R/CI for .rmd files.md",
+    "Sapienza/1st Semester/SDS/Exam Revision Links.md",
     "Sapienza/Study Abroad/Course Summary.md",
     "Sapienza/Study Abroad/Free Movers/NTU/NTU Summary.md",
-    "Sapienza/1st Semester/SDS/Exam Revision Links.md",
     "Sapienza/Study Abroad/Free Movers/NTU/Application.md",
     "Sapienza/1st Semester/ADM/Exam Checklist.md",
     "Sapienza/Study Abroad/Free Movers/NTU/Fees/Application.md",
     "Sapienza/1st Semester/ADM/Data Mining.md",
     "Sapienza/1st Semester/ADM/CompSci Topics.md",
-    "Sapienza/Study Abroad/Free Movers/NTU/Fees/Programme.md",
-    "Sapienza/Study Abroad/Free Movers/NTU/Fees/Tuition.md"
+    "Sapienza/Study Abroad/Free Movers/NTU/Fees/Programme.md"
   ]
 }

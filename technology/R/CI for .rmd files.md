@@ -1,0 +1,1 @@
+This presentation has good example of how to build rmd files using github actions https://tgerke.github.io/github-actions-with-r/#20
