@@ -1,6 +1,6 @@
 1. Create a token for the action workflow so that it can authenticate with github for the repository. COPY THE TOKEN AFTER CREATION. ![[Pasted image 20230212122614.png]]
 2. Create an environment for your github action where it can access the token, and add the token under *environment secrets*. The name you give to the secret is how you will access it in the workflow `yaml`. ![[Pasted image 20230212122909.png]]
-3. 
+3. Under `settings/action/general` of your repository, set give the workflow *read and write permissions*.![[Pasted image 20230212123910.png]]![[Pasted image 20230212123814.png]]
 4. In your workflow, use the `environment` tag to specify the environment that we created, and use the `env` tag to create a environment variable with the access token that our workflow will be able to use. Also specify the `remote origin` with the token. This is an example where we create a `hello world` file and push it to the repository.
    ```yaml
 	name: Push File to Repo
