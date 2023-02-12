@@ -1,0 +1,2 @@
+1. Create a token for the action workflow so that it can authenticate with github for the repository. COPY THE TOKEN AFTER CREATION. ![[Pasted image 20230212122614.png]]
+2. Create an environment for your github action where it can access the token.

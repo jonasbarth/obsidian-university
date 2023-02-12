@@ -132,6 +132,18 @@
             }
           },
           {
+            "id": "4de6323cef28e574",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "technology/CI/Github/Action that pushes to repo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "555de6f160a77494",
             "type": "leaf",
             "state": {
@@ -144,7 +156,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -210,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technology/CI/Github/How to cache steps.md",
+                "file": "technology/CI/Github/Action that pushes to repo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +239,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technology/CI/Github/How to cache steps.md",
+                "file": "technology/CI/Github/Action that pushes to repo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +262,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "technology/CI/Github/How to cache steps.md"
+                "file": "technology/CI/Github/Action that pushes to repo.md"
               }
             }
           },
@@ -297,8 +309,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0c40d5cc0b25e069",
+  "active": "4de6323cef28e574",
   "lastOpenFiles": [
+    "technology/CI/Github/How to cache steps.md",
     "technology/R/CI for .rmd files.md",
     "Sapienza/1st Semester/SDS/Exam Revision Links.md",
     "Sapienza/Study Abroad/Course Summary.md",
@@ -307,7 +320,6 @@
     "Sapienza/1st Semester/ADM/Exam Checklist.md",
     "Sapienza/Study Abroad/Free Movers/NTU/Fees/Application.md",
     "Sapienza/1st Semester/ADM/Data Mining.md",
-    "Sapienza/1st Semester/ADM/CompSci Topics.md",
-    "Sapienza/Study Abroad/Free Movers/NTU/Fees/Programme.md"
+    "Sapienza/1st Semester/ADM/CompSci Topics.md"
   ]
 }
