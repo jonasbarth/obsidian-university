@@ -144,6 +144,30 @@
             }
           },
           {
+            "id": "57d32adbcc751972",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "technology/CI/Github/Pushing Dockerfile to GHCR.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4cd10fa472c859e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "technology/R/Using R inside Docker.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "555de6f160a77494",
             "type": "leaf",
             "state": {
@@ -156,7 +180,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -222,7 +246,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technology/CI/Github/Action that pushes to repo.md",
+                "file": "technology/R/Using R inside Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +263,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technology/CI/Github/Action that pushes to repo.md",
+                "file": "technology/R/Using R inside Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -262,7 +286,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "technology/CI/Github/Action that pushes to repo.md"
+                "file": "technology/R/Using R inside Docker.md"
               }
             }
           },
@@ -309,8 +333,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4de6323cef28e574",
+  "active": "4cd10fa472c859e3",
   "lastOpenFiles": [
+    "technology/CI/Github/Pushing Dockerfile to GHCR.md",
+    "technology/CI/Github/Action that pushes to repo.md",
     "technology/CI/Github/How to cache steps.md",
     "technology/R/CI for .rmd files.md",
     "Sapienza/1st Semester/SDS/Exam Revision Links.md",
@@ -318,8 +344,6 @@
     "Sapienza/Study Abroad/Free Movers/NTU/NTU Summary.md",
     "Sapienza/Study Abroad/Free Movers/NTU/Application.md",
     "Sapienza/1st Semester/ADM/Exam Checklist.md",
-    "Sapienza/Study Abroad/Free Movers/NTU/Fees/Application.md",
-    "Sapienza/1st Semester/ADM/Data Mining.md",
-    "Sapienza/1st Semester/ADM/CompSci Topics.md"
+    "Sapienza/Study Abroad/Free Movers/NTU/Fees/Application.md"
   ]
 }
