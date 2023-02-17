@@ -161,7 +161,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technology/R/Using R inside Docker.md",
+                "file": "technology/CI/Github/Pushing Dockerfile to GHCR.md",
                 "mode": "source",
                 "source": false
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technology/R/Using R inside Docker.md",
+                "file": "technology/CI/Github/Pushing Dockerfile to GHCR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,7 +263,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technology/R/Using R inside Docker.md",
+                "file": "technology/CI/Github/Pushing Dockerfile to GHCR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -286,7 +286,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "technology/R/Using R inside Docker.md"
+                "file": "technology/CI/Github/Pushing Dockerfile to GHCR.md"
               }
             }
           },
@@ -335,15 +335,15 @@
   },
   "active": "4cd10fa472c859e3",
   "lastOpenFiles": [
+    "technology/R/CI for .rmd files.md",
+    "technology/R/Using R inside Docker.md",
     "technology/CI/Github/Pushing Dockerfile to GHCR.md",
     "technology/CI/Github/Action that pushes to repo.md",
     "technology/CI/Github/How to cache steps.md",
-    "technology/R/CI for .rmd files.md",
     "Sapienza/1st Semester/SDS/Exam Revision Links.md",
     "Sapienza/Study Abroad/Course Summary.md",
     "Sapienza/Study Abroad/Free Movers/NTU/NTU Summary.md",
     "Sapienza/Study Abroad/Free Movers/NTU/Application.md",
-    "Sapienza/1st Semester/ADM/Exam Checklist.md",
-    "Sapienza/Study Abroad/Free Movers/NTU/Fees/Application.md"
+    "Sapienza/1st Semester/ADM/Exam Checklist.md"
   ]
 }
