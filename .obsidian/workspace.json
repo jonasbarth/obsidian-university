@@ -8,179 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3c7851b49049dcfd",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "64a285e5cbf3923b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/UPC/Courses/Human Language Engineering.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d28779a681c0f31d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/UPC/Courses/Intelligent Decision Support Systems.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "293674c25b0cbcdb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/UPC/Courses/Artificial Vision & Pattern Recognition.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ddcacbc96a201c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sapienza/3rd Semester/Courses/Data Privacy and Security.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "79eb49378a63d32e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sapienza/Study Abroad/Free Movers/NTU/NTU Summary.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9fc637f940ea5811",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "e852b46d572e9af8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sapienza/Study Abroad/Free Movers/NTU/NTU Summary.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a9e5a63382cecddd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sapienza/1st Semester/SDS/Exam Revision Links.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "82172b1d4be085e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "technology/R/CI for .rmd files.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0c40d5cc0b25e069",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "technology/CI/Github/How to cache steps.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4de6323cef28e574",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "technology/CI/Github/Action that pushes to repo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "57d32adbcc751972",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "technology/CI/Github/Pushing Dockerfile to GHCR.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4cd10fa472c859e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/VUB/Courses/Deep Learning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "555de6f160a77494",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sapienza/1st Semester/ADM/Exam Checklist.md",
+                "file": "Sapienza/Study Abroad/Course Summary.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 13
+        ]
       }
     ],
     "direction": "vertical"
@@ -246,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/VUB/Courses/Deep Learning.md",
+                "file": "Sapienza/Study Abroad/Course Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/VUB/Courses/Deep Learning.md",
+                "file": "Sapienza/Study Abroad/Course Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -286,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/VUB/Courses/Deep Learning.md"
+                "file": "Sapienza/Study Abroad/Course Summary.md"
               }
             }
           },
@@ -335,15 +174,15 @@
   },
   "active": "4cd10fa472c859e3",
   "lastOpenFiles": [
+    "Sapienza/Study Abroad/Erasmus/VUB/Courses/English.md",
+    "Sapienza/Study Abroad/Erasmus/VUB/Courses/Deep Learning.md",
+    "Sapienza/1st Semester/ADM/Exam Checklist.md",
     "Sapienza/Study Abroad/Erasmus/VUB/Courses/Cloud Computing and Big Data Processing.md",
     "Sapienza/Study Abroad/Erasmus/VUB/Courses/Natural Language Processing.md",
     "Sapienza/Study Abroad/Erasmus/VUB/Courses/Computer Vision.md",
     "Sapienza/Study Abroad/Erasmus/VUB/Courses/Biomedical Signals and Images.md",
     "Sapienza/Study Abroad/Course Summary.md",
     "technology/CI/Github/Pushing Dockerfile to GHCR.md",
-    "technology/R/CI for .rmd files.md",
-    "technology/R/Using R inside Docker.md",
-    "technology/CI/Github/Action that pushes to repo.md",
-    "technology/CI/Github/How to cache steps.md"
+    "technology/R/CI for .rmd files.md"
   ]
 }

@@ -1,4 +1,4 @@
-C## Sapienza
+## Sapienza
 
 ```dataview
 TABLE University, Semester, Link, ECTS, Language from "Sapienza/3rd Semester/Courses"
@@ -22,4 +22,7 @@ TABLE University, Semester, Link, ECTS, Language from "Sapienza/Study Abroad/Era
 ```
 
 
-
+## VUB
+```dataview
+TABLE University, Semester, Link, ECTS, Language from "Sapienza/Study Abroad/Erasmus/VUB/Courses"
+```
