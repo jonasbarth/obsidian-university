@@ -19,8 +19,10 @@ TABLE University, Semester, Link, ECTS, Language from "Sapienza/Study Abroad/Fre
 
 ## ULB
 ```dataview
-TABLE University, Semester, Link, ECTS, Language from "Sapienza/Study Abroad/Erasmus/ULB/Courses"
+TABLE Semester, Link, ECTS, Language, Maps from "Sapienza/Study Abroad/Erasmus/ULB/Courses"
 ```
+
+
 ## UPC
 ```dataview
 TABLE University, Semester, Link, ECTS, Language from "Sapienza/Study Abroad/Erasmus/UPC/Courses"
@@ -30,9 +32,4 @@ TABLE University, Semester, Link, ECTS, Language from "Sapienza/Study Abroad/Era
 ## VUB
 ```dataview
 TABLE University, Semester, Link, ECTS, Language from "Sapienza/Study Abroad/Erasmus/VUB/Courses"
-```
-# Mapping
-
-```dataview
-
 ```

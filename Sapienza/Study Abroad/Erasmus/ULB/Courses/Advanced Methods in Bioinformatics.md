@@ -6,3 +6,4 @@ Semester:: 1
 Link:: [link](https://www.ulb.be/en/programme/info-f439-1)
 ECTS:: 5
 Language:: English
+Maps:: [[Bioinformatics and Network Medicine]]

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sapienza/Study Abroad/Course Summary.md",
+                "file": "Sapienza/Study Abroad/Erasmus/UPC/Courses/Human Language Engineering.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,6 +45,24 @@
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "4d40f4bff6a4477c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9cb5655df5804f67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sapienza/Study Abroad/Course Summary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sapienza/Study Abroad/Course Summary.md",
+                "file": "Sapienza/Study Abroad/Erasmus/UPC/Courses/Human Language Engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sapienza/Study Abroad/Course Summary.md",
+                "file": "Sapienza/Study Abroad/Erasmus/UPC/Courses/Human Language Engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sapienza/Study Abroad/Course Summary.md"
+                "file": "Sapienza/Study Abroad/Erasmus/UPC/Courses/Human Language Engineering.md"
               }
             }
           },
@@ -199,15 +217,15 @@
   },
   "active": "f4f3c0a52798079e",
   "lastOpenFiles": [
-    "Sapienza/Electives/Natural Language Processing.md",
-    "Sapienza/Electives/Computer Vision.md",
+    "Sapienza/Study Abroad/Erasmus/UPC/Courses/Cloud Computing and Big Data Analytics.md",
     "Sapienza/Study Abroad/Course Summary.md",
-    "Sapienza/Study Abroad/Erasmus/VUB/Courses/English.md",
-    "Sapienza/Study Abroad/Erasmus/VUB/Courses/Deep Learning.md",
-    "Sapienza/1st Semester/ADM/Exam Checklist.md",
-    "Sapienza/Study Abroad/Erasmus/VUB/Courses/Cloud Computing and Big Data Processing.md",
-    "Sapienza/Study Abroad/Erasmus/VUB/Courses/Natural Language Processing.md",
-    "Sapienza/Study Abroad/Erasmus/VUB/Courses/Computer Vision.md",
-    "Sapienza/Study Abroad/Erasmus/VUB/Courses/Biomedical Signals and Images.md"
+    "Sapienza/Study Abroad/Erasmus/UPC/Courses/Bioinformatics and Statistical Genetics.md",
+    "Sapienza/Study Abroad/Erasmus/UPC/Courses/Big Data Analytics.md",
+    "Sapienza/Study Abroad/Erasmus/UPC/Courses/Artificial Vision & Pattern Recognition.md",
+    "Sapienza/Study Abroad/Erasmus/UPC/Courses/Advanced Machine Learning.md",
+    "Sapienza/Study Abroad/Erasmus/ULB/Courses/Advanced Databases.md",
+    "Sapienza/Study Abroad/Erasmus/ULB/Courses/Advanced Methods in Bioinformatics.md",
+    "Sapienza/Study Abroad/Erasmus/ULB/Courses/Image Acquisition and Processing.md",
+    "Sapienza/Study Abroad/Erasmus/ULB/Courses/NLP.md"
   ]
 }
