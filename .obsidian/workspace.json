@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sapienza/Electives/Natural Language Processing.md",
+                "file": "Sapienza/Study Abroad/Course Summary.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sapienza/Electives/Natural Language Processing.md",
+                "file": "Sapienza/Study Abroad/Course Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sapienza/Electives/Natural Language Processing.md",
+                "file": "Sapienza/Study Abroad/Course Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sapienza/Electives/Natural Language Processing.md"
+                "file": "Sapienza/Study Abroad/Course Summary.md"
               }
             }
           },
@@ -197,8 +197,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f7621147d0852ad0",
+  "active": "f4f3c0a52798079e",
   "lastOpenFiles": [
+    "Sapienza/Electives/Natural Language Processing.md",
     "Sapienza/Electives/Computer Vision.md",
     "Sapienza/Study Abroad/Course Summary.md",
     "Sapienza/Study Abroad/Erasmus/VUB/Courses/English.md",
@@ -207,7 +208,6 @@
     "Sapienza/Study Abroad/Erasmus/VUB/Courses/Cloud Computing and Big Data Processing.md",
     "Sapienza/Study Abroad/Erasmus/VUB/Courses/Natural Language Processing.md",
     "Sapienza/Study Abroad/Erasmus/VUB/Courses/Computer Vision.md",
-    "Sapienza/Study Abroad/Erasmus/VUB/Courses/Biomedical Signals and Images.md",
-    "technology/CI/Github/Pushing Dockerfile to GHCR.md"
+    "Sapienza/Study Abroad/Erasmus/VUB/Courses/Biomedical Signals and Images.md"
   ]
 }

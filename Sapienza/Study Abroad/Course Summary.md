@@ -4,6 +4,11 @@
 TABLE University, Semester, Link, ECTS, Language from "Sapienza/3rd Semester/Courses"
 ```
 
+## Sapienza Electives
+```dataview
+TABLE University, Semester, Link, ECTS, Language from "Sapienza/Electives"
+```
+
 
 
 ## NTU
