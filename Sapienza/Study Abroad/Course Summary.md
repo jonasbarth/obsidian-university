@@ -31,3 +31,8 @@ TABLE University, Semester, Link, ECTS, Language from "Sapienza/Study Abroad/Era
 ```dataview
 TABLE University, Semester, Link, ECTS, Language from "Sapienza/Study Abroad/Erasmus/VUB/Courses"
 ```
+# Mapping
+
+```dataview
+
+```
