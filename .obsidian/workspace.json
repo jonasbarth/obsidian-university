@@ -161,7 +161,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sapienza/Study Abroad/Course Summary.md",
+                "file": "Sapienza/Study Abroad/Erasmus/VUB/Courses/Natural Language Processing.md",
                 "mode": "source",
                 "source": false
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sapienza/Study Abroad/Course Summary.md",
+                "file": "Sapienza/Study Abroad/Erasmus/VUB/Courses/Natural Language Processing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,7 +263,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sapienza/Study Abroad/Course Summary.md",
+                "file": "Sapienza/Study Abroad/Erasmus/VUB/Courses/Natural Language Processing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -286,7 +286,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sapienza/Study Abroad/Course Summary.md"
+                "file": "Sapienza/Study Abroad/Erasmus/VUB/Courses/Natural Language Processing.md"
               }
             }
           },
@@ -335,15 +335,15 @@
   },
   "active": "4cd10fa472c859e3",
   "lastOpenFiles": [
+    "Sapienza/Study Abroad/Erasmus/VUB/Courses/Computer Vision.md",
+    "Sapienza/Study Abroad/Erasmus/VUB/Courses/Biomedical Signals and Images.md",
+    "Sapienza/Study Abroad/Course Summary.md",
     "technology/CI/Github/Pushing Dockerfile to GHCR.md",
     "technology/R/CI for .rmd files.md",
     "technology/R/Using R inside Docker.md",
     "technology/CI/Github/Action that pushes to repo.md",
     "technology/CI/Github/How to cache steps.md",
     "Sapienza/1st Semester/SDS/Exam Revision Links.md",
-    "Sapienza/Study Abroad/Course Summary.md",
-    "Sapienza/Study Abroad/Free Movers/NTU/NTU Summary.md",
-    "Sapienza/Study Abroad/Free Movers/NTU/Application.md",
-    "Sapienza/1st Semester/ADM/Exam Checklist.md"
+    "Sapienza/Study Abroad/Free Movers/NTU/NTU Summary.md"
   ]
 }
