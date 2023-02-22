@@ -6,3 +6,4 @@ Semester::
 Link::
 ECTS::
 Language::
+Maps::
