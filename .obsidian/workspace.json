@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cabfd35c8309d6ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sapienza/Study Abroad/Erasmus/USI/Courses/Artificial Intelligence.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "a9b411dda95c998f",
@@ -140,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/USI/Courses/Deep Learning Lab.md",
+                "file": "Sapienza/Study Abroad/Course Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/USI/Courses/Deep Learning Lab.md",
+                "file": "Sapienza/Study Abroad/Course Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/USI/Courses/Deep Learning Lab.md"
+                "file": "Sapienza/Study Abroad/Course Summary.md"
               }
             }
           },
@@ -227,17 +239,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8c2bcbef90319719",
+  "active": "d5768ee7c5b01d50",
   "lastOpenFiles": [
+    "Sapienza/Courses.md",
+    "Sapienza/Study Abroad/Erasmus/USI/Courses/Artificial Intelligence.md",
+    "Sapienza/Electives/Artificial Intelligence.md",
+    "Sapienza/Electives/ .md",
+    "Sapienza/Study Abroad/Erasmus/USI/Courses/Deep Learning Lab.md",
     "Sapienza/Study Abroad/Erasmus/USI/Courses/Advanced Topics in Machine Learning.md",
     "templates/University Course.md",
     "Sapienza/Study Abroad/Erasmus/USI/Courses/Bioinformatics.md",
     "Sapienza/Study Abroad/Course Summary.md",
-    "Sapienza/Study Abroad/Erasmus/VUB/Courses/Natural Language Processing.md",
-    "Sapienza/Study Abroad/Erasmus/VUB/Courses/Deep Learning.md",
-    "Sapienza/Study Abroad/Erasmus/VUB/Courses/Computer Vision.md",
-    "Sapienza/Study Abroad/Erasmus/VUB/Courses/Cloud Computing and Big Data Processing.md",
-    "Sapienza/Study Abroad/Erasmus/VUB/Courses/Biomedical Signals and Images.md",
-    "Sapienza/Study Abroad/Erasmus/ULB/Courses/Advanced Databases.md"
+    "Sapienza/Study Abroad/Erasmus/VUB/Courses/Natural Language Processing.md"
   ]
 }
