@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sapienza/Study Abroad/Course Summary.md",
+                "file": "Sapienza/Study Abroad/Erasmus/USI/Course Information.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sapienza/Study Abroad/Course Summary.md",
+                "file": "Sapienza/Study Abroad/Erasmus/USI/Course Information.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sapienza/Study Abroad/Course Summary.md",
+                "file": "Sapienza/Study Abroad/Erasmus/USI/Course Information.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sapienza/Study Abroad/Course Summary.md"
+                "file": "Sapienza/Study Abroad/Erasmus/USI/Course Information.md"
               }
             }
           },
@@ -222,8 +222,8 @@
   },
   "active": "0d02b09b7a7fc13e",
   "lastOpenFiles": [
-    "Sapienza/Electives/Natural Language Processing.md",
     "Sapienza/Study Abroad/Course Summary.md",
+    "Sapienza/Electives/Natural Language Processing.md",
     "Sapienza/Study Abroad/Erasmus/VUB/Course Information.md",
     "Sapienza/Study Abroad/Erasmus/VUB/Courses/Software Architectures.md",
     "Sapienza/Study Abroad/Erasmus/USI/Courses/Software Design & Modeling.md",
