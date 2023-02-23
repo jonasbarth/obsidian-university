@@ -8,84 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0d02b09b7a7fc13e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/USI/Course Information.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d543e0606b456eb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/VUB/Course Information.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5312d7846fb94b5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/VUB/Courses/Software Architectures.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "93ef71c05c8348ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/USI/Courses/Software Design & Modeling.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c4c381e227c2885a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Sapienza/Study Abroad/Course Summary.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "01825e08ebedd5da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/Helsinki/Courses/Computer Vision.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "38cb974e91bb5407",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/Helsinki/Courses/Big Data Platforms.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/Helsinki/Courses/Models and algorithms in NLP-applications.md",
+                "file": "Sapienza/Study Abroad/Course Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/Helsinki/Courses/Models and algorithms in NLP-applications.md",
+                "file": "Sapienza/Study Abroad/Course Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/Helsinki/Courses/Models and algorithms in NLP-applications.md"
+                "file": "Sapienza/Study Abroad/Course Summary.md"
               }
             }
           },
@@ -257,10 +184,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "527538348c143820",
+  "active": "c4c381e227c2885a",
   "lastOpenFiles": [
-    "Sapienza/Study Abroad/Erasmus/Helsinki/Courses/Big Data Platforms.md",
     "Sapienza/Study Abroad/Erasmus/Helsinki/Courses/Models and algorithms in NLP-applications.md",
+    "Sapienza/Study Abroad/Erasmus/Helsinki/Courses/Big Data Platforms.md",
     "Sapienza/Study Abroad/Erasmus/Helsinki/Courses/Computer Vision.md",
     "Sapienza/Study Abroad/Course Summary.md",
     "Sapienza/Study Abroad/Erasmus/Helsinki/Courses",
