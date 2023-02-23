@@ -4,46 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f031abb312368e09",
+        "id": "c9a958eef6208733",
         "type": "tabs",
         "children": [
           {
-            "id": "4cd10fa472c859e3",
+            "id": "0d02b09b7a7fc13e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/UPC/Courses/Cloud Computing and Big Data Analytics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ad6bc242a202795",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/USI/Courses/Advanced Topics in Machine Learning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "a9b411dda95c998f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d5768ee7c5b01d50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sapienza/3rd Semester/Courses/Big Data Computing.md",
+                "file": "Sapienza/3rd Semester/Courses/Neural Networks for Data Science Applications.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/UPC/Courses/Cloud Computing and Big Data Analytics.md",
+                "file": "Sapienza/3rd Semester/Courses/Neural Networks for Data Science Applications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/UPC/Courses/Cloud Computing and Big Data Analytics.md",
+                "file": "Sapienza/3rd Semester/Courses/Neural Networks for Data Science Applications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/UPC/Courses/Cloud Computing and Big Data Analytics.md"
+                "file": "Sapienza/3rd Semester/Courses/Neural Networks for Data Science Applications.md"
               }
             }
           },
@@ -202,11 +172,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4cd10fa472c859e3",
+  "active": "0d02b09b7a7fc13e",
   "lastOpenFiles": [
-    "Sapienza/3rd Semester/Courses/Big Data Computing.md",
-    "Sapienza/Study Abroad/Erasmus/UPC/Courses/Cloud Computing and Big Data Analytics.md",
     "Sapienza/Study Abroad/Course Summary.md",
+    "Sapienza/Study Abroad/Erasmus/USI/Courses/Advanced Topics in Machine Learning.md",
+    "Sapienza/Study Abroad/Erasmus/UPC/Courses/Advanced Software Engineering.md",
+    "Sapienza/Electives/Advanced Software Engineering.md",
+    "Sapienza/Electives/Deep Learning and Applied Artificial Intelligence.md",
+    "Sapienza/Study Abroad/Erasmus/UPC/Courses/Cloud Computing and Big Data Analytics.md",
+    "Sapienza/3rd Semester/Courses/Big Data Computing.md",
     "templates/University Course.md",
     "Sapienza/Electives/Machine Learning.md",
     "Sapienza/Study Abroad/Erasmus/USI/Courses/Artificial Intelligence.md",
@@ -215,7 +189,6 @@
     "Sapienza/Courses.md",
     "Sapienza/Electives/Artificial Intelligence.md",
     "Sapienza/Electives/ .md",
-    "Sapienza/Study Abroad/Erasmus/USI/Courses/Deep Learning Lab.md",
-    "Sapienza/Study Abroad/Erasmus/USI/Courses/Advanced Topics in Machine Learning.md"
+    "Sapienza/Study Abroad/Erasmus/USI/Courses/Deep Learning Lab.md"
   ]
 }
