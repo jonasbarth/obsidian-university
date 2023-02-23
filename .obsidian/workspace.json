@@ -66,19 +66,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2808453fe8e7da29",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.15"
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "a9b411dda95c998f",
@@ -261,7 +251,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2808453fe8e7da29",
+  "active": "cabfd35c8309d6ac",
   "lastOpenFiles": [
     "Sapienza/Study Abroad/Course Summary.md",
     "Sapienza/Study Abroad/Erasmus/VUB/Courses/Biomedical Signals and Images.md",
