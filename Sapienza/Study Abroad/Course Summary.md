@@ -33,3 +33,8 @@ TABLE Link, ECTS, Language, Maps from "Sapienza/Study Abroad/Erasmus/VUB/Courses
 ```dataview
 TABLE Link, ECTS, Language, Maps from "Sapienza/Study Abroad/Erasmus/USI/Courses"
 ```
+
+## Helsinki
+```dataview
+TABLE Link, ECTS, Language, Maps from "Sapienza/Study Abroad/Erasmus/Helsinki/Courses"
+```
