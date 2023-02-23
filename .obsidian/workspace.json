@@ -61,13 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/USI/Course Information.md",
+                "file": "Sapienza/Study Abroad/Course Summary.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -133,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/USI/Course Information.md",
+                "file": "Sapienza/Study Abroad/Course Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/USI/Course Information.md",
+                "file": "Sapienza/Study Abroad/Course Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/USI/Course Information.md"
+                "file": "Sapienza/Study Abroad/Course Summary.md"
               }
             }
           },
@@ -220,15 +221,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0d02b09b7a7fc13e",
+  "active": "c4c381e227c2885a",
   "lastOpenFiles": [
+    "Sapienza/Study Abroad/Erasmus/USI/Course Information.md",
+    "Sapienza/Study Abroad/Erasmus/VUB/Course Information.md",
     "Sapienza/Study Abroad/Course Summary.md",
     "Sapienza/Electives/Natural Language Processing.md",
-    "Sapienza/Study Abroad/Erasmus/VUB/Course Information.md",
     "Sapienza/Study Abroad/Erasmus/VUB/Courses/Software Architectures.md",
     "Sapienza/Study Abroad/Erasmus/USI/Courses/Software Design & Modeling.md",
     "Sapienza/Study Abroad/Erasmus/USI/Courses/Software Architecture.md",
-    "Sapienza/Study Abroad/Erasmus/USI/Course Information.md",
     "Sapienza/3rd Semester/Courses/Neural Networks for Data Science Applications.md",
     "Sapienza/Study Abroad/Erasmus/USI/Courses/Advanced Topics in Machine Learning.md",
     "Sapienza/Study Abroad/Erasmus/UPC/Courses/Advanced Software Engineering.md",
