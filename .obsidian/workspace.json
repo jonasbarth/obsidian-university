@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "51f3ad893220bbc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sapienza/Study Abroad/Erasmus/Helsinki/Courses/Introduction to NLP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc4ea34982ca8711",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sapienza/Study Abroad/Erasmus/Helsinki/Courses/Computer Vision.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "527538348c143820",
             "type": "leaf",
             "state": {
@@ -31,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sapienza/Study Abroad/Course Summary.md",
+                "file": "Sapienza/Study Abroad/Erasmus/Helsinki/Courses/Computer Vision.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sapienza/Study Abroad/Course Summary.md",
+                "file": "Sapienza/Study Abroad/Erasmus/Helsinki/Courses/Computer Vision.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sapienza/Study Abroad/Course Summary.md"
+                "file": "Sapienza/Study Abroad/Erasmus/Helsinki/Courses/Computer Vision.md"
               }
             }
           },
@@ -184,11 +209,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c4c381e227c2885a",
+  "active": "bc4ea34982ca8711",
   "lastOpenFiles": [
+    "Sapienza/Study Abroad/Erasmus/Helsinki/Courses/Introduction to NLP.md",
     "Sapienza/Study Abroad/Erasmus/Helsinki/Courses/Models and algorithms in NLP-applications.md",
-    "Sapienza/Study Abroad/Erasmus/Helsinki/Courses/Big Data Platforms.md",
     "Sapienza/Study Abroad/Erasmus/Helsinki/Courses/Computer Vision.md",
+    "Sapienza/Study Abroad/Erasmus/Helsinki/Courses/Big Data Platforms.md",
     "Sapienza/Study Abroad/Course Summary.md",
     "Sapienza/Study Abroad/Erasmus/Helsinki/Courses",
     "Sapienza/Study Abroad/Erasmus/Helsinki",
@@ -212,7 +238,6 @@
     "Sapienza/Study Abroad/Erasmus/USI/Courses/Machine Learning.md",
     "Sapienza/Courses.md",
     "Sapienza/Electives/Artificial Intelligence.md",
-    "Sapienza/Electives/ .md",
-    "Sapienza/Study Abroad/Erasmus/USI/Courses/Deep Learning Lab.md"
+    "Sapienza/Electives/ .md"
   ]
 }
