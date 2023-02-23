@@ -66,9 +66,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2808453fe8e7da29",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "a9b411dda95c998f",
@@ -164,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sapienza/Study Abroad/Course Summary.md",
+                "file": "Sapienza/Study Abroad/Erasmus/USI/Courses/Artificial Intelligence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sapienza/Study Abroad/Course Summary.md",
+                "file": "Sapienza/Study Abroad/Erasmus/USI/Courses/Artificial Intelligence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sapienza/Study Abroad/Course Summary.md"
+                "file": "Sapienza/Study Abroad/Erasmus/USI/Courses/Artificial Intelligence.md"
               }
             }
           },
@@ -251,10 +261,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d5768ee7c5b01d50",
+  "active": "2808453fe8e7da29",
   "lastOpenFiles": [
-    "Sapienza/Study Abroad/Erasmus/VUB/Courses/Biomedical Signals and Images.md",
     "Sapienza/Study Abroad/Course Summary.md",
+    "Sapienza/Study Abroad/Erasmus/VUB/Courses/Biomedical Signals and Images.md",
     "Sapienza/Electives/Machine Learning.md",
     "Sapienza/Study Abroad/Erasmus/USI/Courses/Machine Learning.md",
     "Sapienza/Courses.md",
