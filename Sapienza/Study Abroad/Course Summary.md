@@ -23,7 +23,6 @@ TABLE Link, ECTS, Language, Maps from "Sapienza/Study Abroad/Erasmus/UPC/Courses
 
 
 
-
 ## VUB
 ```dataview
 TABLE Link, ECTS, Language, Maps from "Sapienza/Study Abroad/Erasmus/VUB/Courses"
