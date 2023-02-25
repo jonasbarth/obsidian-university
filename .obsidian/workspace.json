@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/Helsinki/Courses/Software Architectures.md",
+                "file": "Sapienza/Study Abroad/Course Summary.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/Helsinki/Courses/Software Architectures.md",
+                "file": "Sapienza/Study Abroad/Course Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/Helsinki/Courses/Software Architectures.md",
+                "file": "Sapienza/Study Abroad/Course Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/Helsinki/Courses/Software Architectures.md"
+                "file": "Sapienza/Study Abroad/Course Summary.md"
               }
             }
           },
@@ -235,8 +235,8 @@
   },
   "active": "3a74d6e1e89c84db",
   "lastOpenFiles": [
-    "Sapienza/Study Abroad/Course Summary.md",
     "Sapienza/Study Abroad/Erasmus/Helsinki/Courses/Software Architectures.md",
+    "Sapienza/Study Abroad/Course Summary.md",
     "Sapienza/Study Abroad/Erasmus/Helsinki/Courses/Topics in Biostatistics.md",
     "Sapienza/Study Abroad/Erasmus/Helsinki/Courses/Computer Vision.md",
     "Sapienza/Study Abroad/Erasmus/Helsinki/Courses/Introduction to NLP.md",
