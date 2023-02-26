@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "2fdce50a379d3f77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sapienza/4th Semester/Courses/Social Networks and Online Markets.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1bdb665722bcfcd6",
             "type": "leaf",
             "state": {
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sapienza/Study Abroad/Course Summary.md",
+                "file": "Sapienza/4th Semester/Courses/Social Networks and Online Markets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sapienza/Study Abroad/Course Summary.md",
+                "file": "Sapienza/4th Semester/Courses/Social Networks and Online Markets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sapienza/Study Abroad/Course Summary.md"
+                "file": "Sapienza/4th Semester/Courses/Social Networks and Online Markets.md"
               }
             }
           },
@@ -209,12 +221,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1bdb665722bcfcd6",
+  "active": "2fdce50a379d3f77",
   "lastOpenFiles": [
     "Sapienza/Study Abroad/Erasmus/UPC/Courses/Complex and Social Networks.md",
+    "Sapienza/Study Abroad/Course Summary.md",
     "Sapienza/Electives/Social Networks and Online Markets.md",
     "Sapienza/Electives/Natural Language Processing.md",
-    "Sapienza/Study Abroad/Course Summary.md",
     "Sapienza/Courses.md",
     "Sapienza/Study Abroad/Erasmus/Helsinki/Courses/Models and algorithms in NLP-applications.md",
     "Sapienza/Study Abroad/Erasmus/Helsinki/Courses/Topics in Biostatistics.md",
