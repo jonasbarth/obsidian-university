@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/UPC/Courses/Complex and Social Networks.md",
+                "file": "Sapienza/Study Abroad/Course Summary.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,33 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1bdb665722bcfcd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sapienza/Study Abroad/Course Summary.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f6e993a65ccfb46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sapienza/Electives/Social Networks and Online Markets.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -221,12 +197,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1bdb665722bcfcd6",
+  "active": "8adc2155393b5585",
   "lastOpenFiles": [
     "Sapienza/Study Abroad/Erasmus/UPC/Courses/Complex and Social Networks.md",
-    "Sapienza/4th Semester/Courses/Social Networks and Online Markets.md",
-    "Sapienza/Study Abroad/Course Summary.md",
     "Sapienza/Electives/Social Networks and Online Markets.md",
+    "Sapienza/Study Abroad/Course Summary.md",
+    "Sapienza/4th Semester/Courses/Social Networks and Online Markets.md",
     "Sapienza/Electives/Natural Language Processing.md",
     "Sapienza/Courses.md",
     "Sapienza/Study Abroad/Erasmus/Helsinki/Courses/Models and algorithms in NLP-applications.md",
