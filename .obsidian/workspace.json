@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/USI/Course Information.md",
+                "file": "Sapienza/Study Abroad/Course Summary.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sapienza/Study Abroad/Course Summary.md",
+                "file": "Sapienza/Electives/Machine Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,10 +209,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "54049c43d4358131",
+  "active": "8adc2155393b5585",
   "lastOpenFiles": [
     "Sapienza/Study Abroad/Erasmus/USI/Course Information.md",
+    "Sapienza/Electives/Machine Learning.md",
     "Sapienza/Study Abroad/Course Summary.md",
+    "Sapienza/Electives/Artificial Intelligence.md",
     "Sapienza/Study Abroad/Erasmus/UPC/Courses/Complex and Social Networks.md",
     "Sapienza/Electives/Social Networks and Online Markets.md",
     "Sapienza/4th Semester/Courses/Social Networks and Online Markets.md",
@@ -236,8 +238,6 @@
     "Sapienza/Study Abroad/Erasmus/VUB/Course Information.md",
     "Sapienza/Study Abroad/Erasmus/VUB/Courses/Software Architectures.md",
     "Sapienza/Study Abroad/Erasmus/USI/Courses/Software Design & Modeling.md",
-    "Sapienza/Study Abroad/Erasmus/USI/Courses/Software Architecture.md",
-    "Sapienza/3rd Semester/Courses/Neural Networks for Data Science Applications.md",
-    "Sapienza/Study Abroad/Erasmus/USI/Courses/Advanced Topics in Machine Learning.md"
+    "Sapienza/Study Abroad/Erasmus/USI/Courses/Software Architecture.md"
   ]
 }

@@ -3,7 +3,7 @@ Machine Learning
 Name:: Machine Learning
 University:: Sapienza
 Semester:: 1
-Link:: [link](https://corsidilaurea.uniroma1.it/it/view-course-details/2020/29912/20200313105820/acf07dc1-113f-49c5-87c9-34e7f95fa12b/ebc153f6-d218-4b00-a9e0-6986b62b1ef5/f660140d-2192-4548-9a9d-8fa8a85b0d2c/057112ee-2a38-4d43-94be-7037c85e8a1a)
+Link:: [link](https://corsidilaurea.uniroma1.it/en/view-course-details/2021/29932/20210916103754/0a0b54fd-8511-465e-990c-d03961df570f/5ab5d736-0f6d-4e2a-b78e-0215d8d9d797/2b177455-23ed-44a8-8a1c-d7c0fccba7cc/76ef1456-31fd-4455-ab53-18b221f7b32c?guid_cv=5ab5d736-0f6d-4e2a-b78e-0215d8d9d797&current_erogata=0a0b54fd-8511-465e-990c-d03961df570f)
 ECTS:: 6
 Language:: English
 Maps:: NA
