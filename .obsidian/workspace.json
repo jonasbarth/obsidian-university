@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sapienza/4th Semester/Courses/Social Networks and Online Markets.md",
+                "file": "Sapienza/Study Abroad/Course Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sapienza/4th Semester/Courses/Social Networks and Online Markets.md",
+                "file": "Sapienza/Study Abroad/Course Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sapienza/4th Semester/Courses/Social Networks and Online Markets.md"
+                "file": "Sapienza/Study Abroad/Course Summary.md"
               }
             }
           },
@@ -221,9 +221,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2fdce50a379d3f77",
+  "active": "1bdb665722bcfcd6",
   "lastOpenFiles": [
     "Sapienza/Study Abroad/Erasmus/UPC/Courses/Complex and Social Networks.md",
+    "Sapienza/4th Semester/Courses/Social Networks and Online Markets.md",
     "Sapienza/Study Abroad/Course Summary.md",
     "Sapienza/Electives/Social Networks and Online Markets.md",
     "Sapienza/Electives/Natural Language Processing.md",
@@ -249,7 +250,6 @@
     "Sapienza/Study Abroad/Erasmus/USI/Courses/Software Design & Modeling.md",
     "Sapienza/Study Abroad/Erasmus/USI/Courses/Software Architecture.md",
     "Sapienza/3rd Semester/Courses/Neural Networks for Data Science Applications.md",
-    "Sapienza/Study Abroad/Erasmus/USI/Courses/Advanced Topics in Machine Learning.md",
-    "Sapienza/Electives/Deep Learning and Applied Artificial Intelligence.md"
+    "Sapienza/Study Abroad/Erasmus/USI/Courses/Advanced Topics in Machine Learning.md"
   ]
 }
