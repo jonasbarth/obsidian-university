@@ -49,6 +49,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Sapienza/3rd Semester/Courses/Neural Networks for Data Science Applications.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7c2933ae0cd5c97d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Sapienza/Study Abroad/Course Summary.md",
                 "mode": "source",
                 "source": false
@@ -80,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -233,10 +245,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0274a1b56b8ad803",
+  "active": "7c2933ae0cd5c97d",
   "lastOpenFiles": [
-    "Sapienza/Study Abroad/Erasmus/VUB/Course Information.md",
+    "Sapienza/3rd Semester/Courses/Neural Networks for Data Science Applications.md",
     "Sapienza/Study Abroad/Course Summary.md",
+    "Sapienza/Study Abroad/Erasmus/VUB/Course Information.md",
     "Sapienza/Electives/Natural Language Processing.md",
     "Sapienza/Study Abroad/Erasmus/UPC/Courses/Statistical Natural Language Processing.md",
     "Sapienza/Electives/Computer Vision.md",
@@ -261,7 +274,6 @@
     "Sapienza/Study Abroad/Erasmus/Helsinki/Courses/Software Architectures.md",
     "Sapienza/Study Abroad/Erasmus/Helsinki/Courses/Big Data Platforms.md",
     "Sapienza/Study Abroad/Erasmus/Helsinki/Courses",
-    "Sapienza/Study Abroad/Erasmus/Helsinki",
-    "Sapienza/Study Abroad/Erasmus/VUB/Courses/Software Architectures.md"
+    "Sapienza/Study Abroad/Erasmus/Helsinki"
   ]
 }
