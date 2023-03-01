@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/Helsinki/Courses/Big Data Platforms.md",
+                "file": "Sapienza/Study Abroad/Course Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/Helsinki/Courses/Big Data Platforms.md",
+                "file": "Sapienza/Study Abroad/Course Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/Helsinki/Courses/Big Data Platforms.md"
+                "file": "Sapienza/Study Abroad/Course Summary.md"
               }
             }
           },
@@ -269,19 +269,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f4f3c0a52798079e",
+  "active": "7c2933ae0cd5c97d",
   "lastOpenFiles": [
+    "Sapienza/Study Abroad/Erasmus/USI/Course Information.md",
+    "Sapienza/Study Abroad/Course Summary.md",
+    "Sapienza/Study Abroad/Erasmus/Helsinki/Courses/Big Data Platforms.md",
     "Sapienza/Study Abroad/Erasmus/UPC/Artificial Intelligence.md",
     "Sapienza/Study Abroad/Erasmus/UPC/Data Science.md",
     "Sapienza/Study Abroad/Erasmus/VUB/Courses/Reinforcement Learning.md",
     "Sapienza/Study Abroad/Erasmus/VUB/Courses/Current Trends in Artificial Intelligence.md",
-    "Sapienza/Study Abroad/Course Summary.md",
     "Sapienza/3rd Semester/Courses/Neural Networks for Data Science Applications.md",
     "Sapienza/Study Abroad/Erasmus/VUB/Course Information.md",
     "Sapienza/Electives/Natural Language Processing.md",
     "Sapienza/Study Abroad/Erasmus/UPC/Courses/Statistical Natural Language Processing.md",
     "Sapienza/Electives/Computer Vision.md",
-    "Sapienza/Study Abroad/Erasmus/USI/Course Information.md",
     "Sapienza/Electives/Machine Learning.md",
     "Sapienza/Electives/Artificial Intelligence.md",
     "Sapienza/Study Abroad/Erasmus/UPC/Courses/Complex and Social Networks.md",
@@ -296,7 +297,6 @@
     "Sapienza/Study Abroad/Erasmus/UPC/Courses/Big Data Analytics.md",
     "Sapienza/Electives/Advanced Software Engineering.md",
     "Sapienza/3rd Semester/Courses/Bioinformatics and Network Medicine.md",
-    "Sapienza/3rd Semester/Courses/Big Data Computing.md",
     "Sapienza/Study Abroad/Erasmus/Helsinki/Courses",
     "Sapienza/Study Abroad/Erasmus/Helsinki"
   ]
