@@ -20,6 +20,40 @@
             }
           },
           {
+            "id": "6b47183542288488",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sapienza/Study Abroad/Erasmus/UPC/Courses/Optimisation Techniques for Data Mining.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "06e9ca7449d888ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sapienza/Study Abroad/Erasmus/UPC/Courses/Information Retrieval and Recommender Systems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b17156788a0cba1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
+          },
+          {
             "id": "c340b9d6cae3e48e",
             "type": "leaf",
             "state": {
@@ -115,7 +149,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -181,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sapienza/Study Abroad/Course Summary.md",
+                "file": "Sapienza/Study Abroad/Erasmus/UPC/Courses/Information Retrieval and Recommender Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sapienza/Study Abroad/Course Summary.md",
+                "file": "Sapienza/Study Abroad/Erasmus/UPC/Courses/Information Retrieval and Recommender Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sapienza/Study Abroad/Course Summary.md"
+                "file": "Sapienza/Study Abroad/Erasmus/UPC/Courses/Information Retrieval and Recommender Systems.md"
               }
             }
           },
@@ -268,14 +303,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3f2312253d2b013b",
+  "active": "1b17156788a0cba1",
   "lastOpenFiles": [
+    "Sapienza/Study Abroad/Erasmus/UPC/Courses/Optimisation Techniques for Data Mining.md",
+    "Sapienza/Study Abroad/Erasmus/UPC/Courses/Information Retrieval and Recommender Systems.md",
+    "Sapienza/Study Abroad/Erasmus/UPC/Courses/Data Analysis and Knowledge Discovery.md",
+    "Sapienza/Study Abroad/Course Summary.md",
     "Sapienza/Electives/Natural Language Processing.md",
     "Sapienza/Study Abroad/Erasmus/VUB/Courses/Reinforcement Learning.md",
-    "Sapienza/Study Abroad/Course Summary.md",
     "Sapienza/Study Abroad/Erasmus/UPC/Courses/Data Warehousing.md",
     "Sapienza/2nd Semester/Data Management for Data Science.md",
-    "Sapienza/Study Abroad/Erasmus/UPC/Courses/Optimisation Techniques for Data Mining.md",
     "Sapienza/2nd Semester/Advanced Data Mining and Language Technology.md",
     "Sapienza/2nd Semester",
     "Sapienza/Study Abroad/Erasmus/UPC/Courses/Bioinformatics and Statistical Genetics.md",
@@ -295,8 +332,6 @@
     "Sapienza/Electives/Machine Learning.md",
     "Sapienza/Electives/Artificial Intelligence.md",
     "Sapienza/Electives/Social Networks and Online Markets.md",
-    "Sapienza/Courses.md",
-    "Sapienza/Study Abroad/Erasmus/Helsinki/Courses/Models and algorithms in NLP-applications.md",
     "Sapienza/Study Abroad/Erasmus/Helsinki/Courses",
     "Sapienza/Study Abroad/Erasmus/Helsinki"
   ]
