@@ -114,9 +114,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0196538dca7b3d96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sapienza/2nd Semester/Advanced Data Mining and Language Technology.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -182,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/UPC/Courses/Optimisation Techniques for Data Mining.md",
+                "file": "Sapienza/Study Abroad/Course Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/UPC/Courses/Optimisation Techniques for Data Mining.md",
+                "file": "Sapienza/Study Abroad/Course Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/UPC/Courses/Optimisation Techniques for Data Mining.md"
+                "file": "Sapienza/Study Abroad/Course Summary.md"
               }
             }
           },
@@ -269,11 +281,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f4f3c0a52798079e",
+  "active": "2fdce50a379d3f77",
   "lastOpenFiles": [
+    "Sapienza/2nd Semester/Advanced Data Mining and Language Technology.md",
+    "Sapienza/Study Abroad/Erasmus/UPC/Courses/Optimisation Techniques for Data Mining.md",
     "Sapienza/2nd Semester",
     "Sapienza/Study Abroad/Erasmus/UPC/Courses/Bioinformatics and Statistical Genetics.md",
-    "Sapienza/Study Abroad/Erasmus/UPC/Courses/Optimisation Techniques for Data Mining.md",
     "Sapienza/Study Abroad/Erasmus/UPC/Courses/Complex and Social Networks.md",
     "Sapienza/Study Abroad/Erasmus/UPC/Courses/Randomised Algorithms.md",
     "Sapienza/Study Abroad/Course Summary.md",
