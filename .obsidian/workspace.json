@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sapienza/Electives/Natural Language Processing.md",
+                "file": "Sapienza/Study Abroad/Course Summary.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sapienza/Study Abroad/Course Summary.md",
+                "file": "Sapienza/Study Abroad/Erasmus/UPC/Data Science.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,8 +115,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -269,18 +268,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7c2933ae0cd5c97d",
+  "active": "3f2312253d2b013b",
   "lastOpenFiles": [
-    "Sapienza/Study Abroad/Erasmus/USI/Course Information.md",
+    "Sapienza/Electives/Natural Language Processing.md",
+    "Sapienza/Study Abroad/Erasmus/UPC/Data Science.md",
     "Sapienza/Study Abroad/Course Summary.md",
+    "Sapienza/Study Abroad/Erasmus/USI/Course Information.md",
     "Sapienza/Study Abroad/Erasmus/Helsinki/Courses/Big Data Platforms.md",
     "Sapienza/Study Abroad/Erasmus/UPC/Artificial Intelligence.md",
-    "Sapienza/Study Abroad/Erasmus/UPC/Data Science.md",
     "Sapienza/Study Abroad/Erasmus/VUB/Courses/Reinforcement Learning.md",
     "Sapienza/Study Abroad/Erasmus/VUB/Courses/Current Trends in Artificial Intelligence.md",
     "Sapienza/3rd Semester/Courses/Neural Networks for Data Science Applications.md",
     "Sapienza/Study Abroad/Erasmus/VUB/Course Information.md",
-    "Sapienza/Electives/Natural Language Processing.md",
     "Sapienza/Study Abroad/Erasmus/UPC/Courses/Statistical Natural Language Processing.md",
     "Sapienza/Electives/Computer Vision.md",
     "Sapienza/Electives/Machine Learning.md",
