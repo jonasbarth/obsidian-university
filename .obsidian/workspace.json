@@ -149,8 +149,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -216,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/UPC/Courses/Information Retrieval and Recommender Systems.md",
+                "file": "Sapienza/Study Abroad/Course Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/UPC/Courses/Information Retrieval and Recommender Systems.md",
+                "file": "Sapienza/Study Abroad/Course Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/UPC/Courses/Information Retrieval and Recommender Systems.md"
+                "file": "Sapienza/Study Abroad/Course Summary.md"
               }
             }
           },
@@ -303,7 +302,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1b17156788a0cba1",
+  "active": "3f2312253d2b013b",
   "lastOpenFiles": [
     "Sapienza/Study Abroad/Erasmus/UPC/Courses/Optimisation Techniques for Data Mining.md",
     "Sapienza/Study Abroad/Erasmus/UPC/Courses/Information Retrieval and Recommender Systems.md",
