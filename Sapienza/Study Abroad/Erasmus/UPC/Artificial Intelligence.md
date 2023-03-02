@@ -1,1 +1,1 @@
-https://www.fib.upc.edu/en/studies/masters/master-artificial-intelligence/curriculum
+https://www.fib.upc.edu/en/studies/masters/master-artificial-intelligence/curriculum/syllabus

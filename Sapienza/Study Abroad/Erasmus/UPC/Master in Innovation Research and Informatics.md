@@ -1,0 +1,1 @@
+https://www.fib.upc.edu/en/studies/masters/master-innovation-and-research-informatics/curriculum/syllabus
