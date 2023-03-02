@@ -7,3 +7,4 @@ Link:: [link](https://www.fib.upc.edu/en/studies/masters/master-innovation-and-r
 ECTS:: 6
 Language:: English
 Maps:: 
+Note:: No R

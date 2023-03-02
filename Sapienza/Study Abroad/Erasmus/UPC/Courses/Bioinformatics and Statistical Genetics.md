@@ -7,3 +7,4 @@ Link:: [link](https://www.fib.upc.edu/en/studies/masters/master-data-science/cur
 ECTS:: 6
 Language:: English
 Maps:: [[Bioinformatics and Network Medicine]]
+Note:: Uses R
