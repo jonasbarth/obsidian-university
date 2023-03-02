@@ -80,55 +80,31 @@
             }
           },
           {
-            "id": "d4f38ce867929333",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/VUB/Courses/Current Trends in Artificial Intelligence.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "664daf2f5c01b93a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/Helsinki/Courses/Big Data Platforms.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "54049c43d4358131",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sapienza/Electives/Machine Learning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2fdce50a379d3f77",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sapienza/4th Semester/Courses/Social Networks and Online Markets.md",
+                "file": "Sapienza/Study Abroad/Course Summary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b69ebbf98a0bda73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sapienza/Study Abroad/Erasmus/UPC/Courses/Randomised Algorithms.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -194,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sapienza/Electives/Reinforcement Learning.md",
+                "file": "Sapienza/Study Abroad/Erasmus/UPC/Courses/Randomised Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sapienza/Electives/Reinforcement Learning.md",
+                "file": "Sapienza/Study Abroad/Erasmus/UPC/Courses/Randomised Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sapienza/Electives/Reinforcement Learning.md"
+                "file": "Sapienza/Study Abroad/Erasmus/UPC/Courses/Randomised Algorithms.md"
               }
             }
           },
@@ -281,9 +257,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dd8106c4c7c3f6d7",
+  "active": "b69ebbf98a0bda73",
   "lastOpenFiles": [
     "Sapienza/Study Abroad/Course Summary.md",
+    "Sapienza/Study Abroad/Erasmus/UPC/Courses/Randomised Algorithms.md",
+    "Sapienza/4th Semester/Courses/Social Networks and Online Markets.md",
     "Sapienza/Electives/Reinforcement Learning.md",
     "Sapienza/Electives/Natural Language Processing.md",
     "Sapienza/Study Abroad/Erasmus/UPC/Data Science.md",
@@ -300,7 +278,6 @@
     "Sapienza/Electives/Artificial Intelligence.md",
     "Sapienza/Study Abroad/Erasmus/UPC/Courses/Complex and Social Networks.md",
     "Sapienza/Electives/Social Networks and Online Markets.md",
-    "Sapienza/4th Semester/Courses/Social Networks and Online Markets.md",
     "Sapienza/Courses.md",
     "Sapienza/Study Abroad/Erasmus/Helsinki/Courses/Models and algorithms in NLP-applications.md",
     "Sapienza/Study Abroad/Erasmus/Helsinki/Courses/Topics in Biostatistics.md",
@@ -308,7 +285,6 @@
     "Sapienza/Study Abroad/Erasmus/Helsinki/Courses/Introduction to NLP.md",
     "Sapienza/Study Abroad/Erasmus/UPC/Courses/Bioinformatics and Statistical Genetics.md",
     "Sapienza/Study Abroad/Erasmus/UPC/Courses/Big Data Analytics.md",
-    "Sapienza/Electives/Advanced Software Engineering.md",
     "Sapienza/Study Abroad/Erasmus/Helsinki/Courses",
     "Sapienza/Study Abroad/Erasmus/Helsinki"
   ]
