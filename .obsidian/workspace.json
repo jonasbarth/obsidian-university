@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/UPC/Courses/Open Data.md",
+                "file": "Sapienza/Study Abroad/Course Summary.md",
                 "mode": "source",
                 "source": false
               }
@@ -240,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/UPC/Courses/Open Data.md",
+                "file": "Sapienza/Study Abroad/Course Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/UPC/Courses/Open Data.md",
+                "file": "Sapienza/Study Abroad/Course Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -280,7 +280,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/UPC/Courses/Open Data.md"
+                "file": "Sapienza/Study Abroad/Course Summary.md"
               }
             }
           },
@@ -329,8 +329,9 @@
   },
   "active": "90607a486d13ae49",
   "lastOpenFiles": [
-    "Sapienza/Study Abroad/Erasmus/UPC/Master in Innovation Research and Informatics.md",
+    "Sapienza/Courses.md",
     "Sapienza/Study Abroad/Erasmus/UPC/Courses/Open Data.md",
+    "Sapienza/Study Abroad/Erasmus/UPC/Master in Innovation Research and Informatics.md",
     "Sapienza/Study Abroad/Erasmus/UPC/Artificial Intelligence.md",
     "Sapienza/Study Abroad/Erasmus/UPC/Data Science.md",
     "Sapienza/Study Abroad/Course Summary.md",
@@ -355,7 +356,6 @@
     "Sapienza/Study Abroad/Erasmus/VUB/Course Information.md",
     "Sapienza/Study Abroad/Erasmus/UPC/Courses/Statistical Natural Language Processing.md",
     "Sapienza/Electives/Computer Vision.md",
-    "Sapienza/Electives/Machine Learning.md",
     "Sapienza/Study Abroad/Erasmus/Helsinki/Courses",
     "Sapienza/Study Abroad/Erasmus/Helsinki"
   ]
