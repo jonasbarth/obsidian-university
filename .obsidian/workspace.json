@@ -4,177 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e85daf380da828cb",
+        "id": "2c6528aadd7a6ed6",
         "type": "tabs",
         "children": [
           {
-            "id": "3f2312253d2b013b",
+            "id": "923a14062d2bbf0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/UPC/Artificial Intelligence.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "015bab998d9fa541",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/UPC/Master in Innovation Research and Informatics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "90607a486d13ae49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sapienza/Study Abroad/Course Summary.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b47183542288488",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/UPC/Courses/Optimisation Techniques for Data Mining.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "06e9ca7449d888ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/UPC/Courses/Information Retrieval and Recommender Systems.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b17156788a0cba1",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.16"
-              }
-            }
-          },
-          {
-            "id": "c340b9d6cae3e48e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/VUB/Course Information.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0274a1b56b8ad803",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sapienza/3rd Semester/Courses/Neural Networks for Data Science Applications.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c2933ae0cd5c97d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/UPC/Data Science.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2fdce50a379d3f77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/UPC/Courses/Optimisation Techniques for Data Mining.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8492b7d11e2de3b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/UPC/Courses/Data Warehousing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b69ebbf98a0bda73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/UPC/Courses/Bioinformatics and Statistical Genetics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1edecc9a866d8655",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/UPC/Courses/Optimisation Techniques for Data Mining.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0196538dca7b3d96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sapienza/2nd Semester/Advanced Data Mining and Language Technology.md",
+                "file": "technology/CI/Github/Pushing Dockerfile to GHCR.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sapienza/Study Abroad/Course Summary.md",
+                "file": "technology/CI/Github/Pushing Dockerfile to GHCR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sapienza/Study Abroad/Course Summary.md",
+                "file": "technology/CI/Github/Pushing Dockerfile to GHCR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -280,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sapienza/Study Abroad/Course Summary.md"
+                "file": "technology/CI/Github/Pushing Dockerfile to GHCR.md"
               }
             }
           },
@@ -327,14 +172,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "90607a486d13ae49",
+  "active": "f4f3c0a52798079e",
   "lastOpenFiles": [
+    "technology/CI/Github/How to cache steps.md",
+    "technology/CI/Github/Action that pushes to repo.md",
+    "technology/CI/Github/Pushing Dockerfile to GHCR.md",
+    "Sapienza/Study Abroad/Erasmus/UPC/Artificial Intelligence.md",
+    "Sapienza/Study Abroad/Erasmus/UPC/Master in Innovation Research and Informatics.md",
+    "Sapienza/Study Abroad/Erasmus/UPC/Courses/Bioinformatics and Statistical Genetics.md",
+    "Sapienza/Study Abroad/Erasmus/VUB/Course Information.md",
+    "Sapienza/Study Abroad/Course Summary.md",
     "Sapienza/Courses.md",
     "Sapienza/Study Abroad/Erasmus/UPC/Courses/Open Data.md",
-    "Sapienza/Study Abroad/Erasmus/UPC/Master in Innovation Research and Informatics.md",
-    "Sapienza/Study Abroad/Erasmus/UPC/Artificial Intelligence.md",
     "Sapienza/Study Abroad/Erasmus/UPC/Data Science.md",
-    "Sapienza/Study Abroad/Course Summary.md",
     "Sapienza/Study Abroad/Erasmus/UPC/Courses/Optimisation Techniques for Data Mining.md",
     "Sapienza/Study Abroad/Erasmus/UPC/Courses/Information Retrieval and Recommender Systems.md",
     "Sapienza/Study Abroad/Erasmus/UPC/Courses/Data Analysis and Knowledge Discovery.md",
@@ -344,7 +194,6 @@
     "Sapienza/2nd Semester/Data Management for Data Science.md",
     "Sapienza/2nd Semester/Advanced Data Mining and Language Technology.md",
     "Sapienza/2nd Semester",
-    "Sapienza/Study Abroad/Erasmus/UPC/Courses/Bioinformatics and Statistical Genetics.md",
     "Sapienza/Study Abroad/Erasmus/UPC/Courses/Complex and Social Networks.md",
     "Sapienza/Study Abroad/Erasmus/UPC/Courses/Randomised Algorithms.md",
     "Sapienza/4th Semester/Courses/Social Networks and Online Markets.md",
@@ -352,10 +201,6 @@
     "Sapienza/Study Abroad/Erasmus/USI/Course Information.md",
     "Sapienza/Study Abroad/Erasmus/Helsinki/Courses/Big Data Platforms.md",
     "Sapienza/Study Abroad/Erasmus/VUB/Courses/Current Trends in Artificial Intelligence.md",
-    "Sapienza/3rd Semester/Courses/Neural Networks for Data Science Applications.md",
-    "Sapienza/Study Abroad/Erasmus/VUB/Course Information.md",
-    "Sapienza/Study Abroad/Erasmus/UPC/Courses/Statistical Natural Language Processing.md",
-    "Sapienza/Electives/Computer Vision.md",
     "Sapienza/Study Abroad/Erasmus/Helsinki/Courses",
     "Sapienza/Study Abroad/Erasmus/Helsinki"
   ]
