@@ -13,6 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Sapienza/Study Abroad/Erasmus/UPC/Data Science.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f888c8d635dfc14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Sapienza/Study Abroad/Course Summary.md",
                 "mode": "source",
                 "source": false
@@ -25,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/Nova Lisbon/Untitled.md",
+                "file": "Sapienza/Study Abroad/Erasmus/Nova Lisbon/Software Engineering Masters.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/Nova Lisbon/Untitled.md",
+                "file": "Sapienza/Study Abroad/Course Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/Nova Lisbon/Untitled.md",
+                "file": "Sapienza/Study Abroad/Course Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/Nova Lisbon/Untitled.md"
+                "file": "Sapienza/Study Abroad/Course Summary.md"
               }
             }
           },
@@ -209,10 +221,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "115a74d5b2d0a00c",
+  "active": "3f888c8d635dfc14",
   "lastOpenFiles": [
+    "Sapienza/Study Abroad/Erasmus/UPC/Data Science.md",
+    "Sapienza/Study Abroad/Erasmus/UPC/Master in Innovation Research and Informatics.md",
     "Sapienza/Study Abroad/Course Summary.md",
-    "Sapienza/Study Abroad/Erasmus/Nova Lisbon/Untitled.md",
+    "Sapienza/Study Abroad/Erasmus/Nova Lisbon/Software Engineering Masters.md",
     "Sapienza/Study Abroad/Erasmus/Nova Lisbon/Courses/Data Analytics and Mining.md",
     "Sapienza/Study Abroad/Erasmus/Nova Lisbon/Courses/Software Requirements and Architecture.md",
     "Sapienza/Study Abroad/Erasmus/Nova Lisbon/Courses/Deep Learning.md",
@@ -222,12 +236,10 @@
     "technology/CI/Github/How to cache steps.md",
     "technology/CI/Github/Action that pushes to repo.md",
     "Sapienza/Study Abroad/Erasmus/UPC/Artificial Intelligence.md",
-    "Sapienza/Study Abroad/Erasmus/UPC/Master in Innovation Research and Informatics.md",
     "Sapienza/Study Abroad/Erasmus/UPC/Courses/Bioinformatics and Statistical Genetics.md",
     "Sapienza/Study Abroad/Erasmus/VUB/Course Information.md",
     "Sapienza/Courses.md",
     "Sapienza/Study Abroad/Erasmus/UPC/Courses/Open Data.md",
-    "Sapienza/Study Abroad/Erasmus/UPC/Data Science.md",
     "Sapienza/Study Abroad/Erasmus/UPC/Courses/Optimisation Techniques for Data Mining.md",
     "Sapienza/Study Abroad/Erasmus/UPC/Courses/Information Retrieval and Recommender Systems.md",
     "Sapienza/Study Abroad/Erasmus/UPC/Courses/Data Analysis and Knowledge Discovery.md",
