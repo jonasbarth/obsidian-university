@@ -1,13 +1,15 @@
 ## Sapienza
 
 ```dataview
-TABLE University, Semester, Link, ECTS, Language from "Sapienza/3rd Semester/Courses"
+TABLE University, Semester, Link, ECTS, Language from "Sapienza/3rd Semester/Courses" SORT file.name ASC
 ```
+
 
 ## Sapienza Electives
 ```dataview
-TABLE University, Semester, Link, ECTS, Language from "Sapienza/Electives"
+TABLE University, Semester, Link, ECTS, Language from "Sapienza/Electives" SORT file.name ASC
 ```
+
 
 
 
@@ -18,23 +20,27 @@ TABLE University, Semester, Link, ECTS, Language from "Sapienza/Study Abroad/Fre
 
 ## UPC
 ```dataview
-TABLE Link, ECTS, Language, Maps from "Sapienza/Study Abroad/Erasmus/UPC/Courses"
+TABLE Link, ECTS, Language, Maps from "Sapienza/Study Abroad/Erasmus/UPC/Courses" SORT file.name ASC
 ```
+
 
 
 
 ## VUB
 ```dataview
-TABLE Link, ECTS, Language, Maps from "Sapienza/Study Abroad/Erasmus/VUB/Courses"
+TABLE Link, ECTS, Language, Maps from "Sapienza/Study Abroad/Erasmus/VUB/Courses" SORT file.name ASC
 ```
+
 
 
 # USI
 ```dataview
-TABLE Link, ECTS, Language, Maps from "Sapienza/Study Abroad/Erasmus/USI/Courses"
+TABLE Link, ECTS, Language, Maps from "Sapienza/Study Abroad/Erasmus/USI/Courses" SORT file.name ASC
 ```
+
 
 ## Helsinki
 ```dataview
-TABLE Link, ECTS, Language, Maps from "Sapienza/Study Abroad/Erasmus/Helsinki/Courses"
+TABLE Link, ECTS, Language, Maps from "Sapienza/Study Abroad/Erasmus/Helsinki/Courses" SORT file.name ASC
 ```
+

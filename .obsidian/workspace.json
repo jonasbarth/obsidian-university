@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "8a2fa7d342e0b0f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sapienza/Study Abroad/Erasmus/UPC/Courses/Optimisation Techniques for Data Mining.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "115a74d5b2d0a00c",
             "type": "leaf",
             "state": {
@@ -223,9 +235,11 @@
   },
   "active": "3f888c8d635dfc14",
   "lastOpenFiles": [
+    "Sapienza/Study Abroad/Erasmus/UPC/Courses/Optimisation Techniques for Data Mining.md",
+    "Sapienza/Study Abroad/Course Summary.md",
+    "Sapienza/2nd Semester/Optimisation Techniques for Data Science.md",
     "Sapienza/Study Abroad/Erasmus/UPC/Data Science.md",
     "Sapienza/Study Abroad/Erasmus/UPC/Master in Innovation Research and Informatics.md",
-    "Sapienza/Study Abroad/Course Summary.md",
     "Sapienza/Study Abroad/Erasmus/Nova Lisbon/Software Engineering Masters.md",
     "Sapienza/Study Abroad/Erasmus/Nova Lisbon/Courses/Data Analytics and Mining.md",
     "Sapienza/Study Abroad/Erasmus/Nova Lisbon/Courses/Software Requirements and Architecture.md",
@@ -240,7 +254,6 @@
     "Sapienza/Study Abroad/Erasmus/VUB/Course Information.md",
     "Sapienza/Courses.md",
     "Sapienza/Study Abroad/Erasmus/UPC/Courses/Open Data.md",
-    "Sapienza/Study Abroad/Erasmus/UPC/Courses/Optimisation Techniques for Data Mining.md",
     "Sapienza/Study Abroad/Erasmus/UPC/Courses/Information Retrieval and Recommender Systems.md",
     "Sapienza/Study Abroad/Erasmus/UPC/Courses/Data Analysis and Knowledge Discovery.md",
     "Sapienza/Electives/Natural Language Processing.md",
@@ -251,7 +264,6 @@
     "Sapienza/2nd Semester",
     "Sapienza/Study Abroad/Erasmus/UPC/Courses/Complex and Social Networks.md",
     "Sapienza/Study Abroad/Erasmus/UPC/Courses/Randomised Algorithms.md",
-    "Sapienza/4th Semester/Courses/Social Networks and Online Markets.md",
     "Sapienza/Study Abroad/Erasmus/Helsinki/Courses",
     "Sapienza/Study Abroad/Erasmus/Helsinki"
   ]
