@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sapienza/Study Abroad/Course Summary.md",
+                "file": "Sapienza/Study Abroad/Erasmus/UPC/Data Science.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/VUB/Course Information.md",
+                "file": "Sapienza/Study Abroad/Course Summary.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,11 +185,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "923a14062d2bbf0f",
+  "active": "f74bd014e94a4d74",
   "lastOpenFiles": [
     "Sapienza/Study Abroad/Erasmus/VUB/Course Information.md",
-    "Sapienza/Study Abroad/Course Summary.md",
     "Sapienza/Study Abroad/Erasmus/UPC/Data Science.md",
+    "Sapienza/Study Abroad/Course Summary.md",
     "Sapienza/Study Abroad/Erasmus/UPC/Artificial Intelligence.md",
     "Sapienza/Study Abroad/Erasmus/UPC/Courses/Optimisation Techniques for Data Mining.md",
     "Sapienza/2nd Semester/Optimisation Techniques for Data Science.md",
