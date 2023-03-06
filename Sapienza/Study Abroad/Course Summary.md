@@ -49,3 +49,5 @@ The UPC is a prestigious university in Spain that would challenge me academicall
 Brussels is the heart of Europe and with so many nationalities in the city, there are many opportunities to meet other internationals and exploring the multicultural aspects of the city. The VUB has interesting courses that would complement my study plan here at Sapienza very well and that would for sure be a challenge.
 
 The USI is a smaller university in a smaller town (compared to Sapienza and Rome), which I believe would give a more homey and close feel inside and outside of the classroom. Additionally, I could keep learning Italian while being in Lugano which would be great when coming back to Rome after the Erasmus. 
+
+I have never been to Finland, so this would be a good opportunity to explore the country and get to know the people and culture. Helsinki university would also allow me to focus on NLP a lot, which is something that I haven't yet done. Finally, since I am fluent in Swedish, I think I could more easily connect with people and have an easier start into life there.
