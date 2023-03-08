@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technology/cloud/google/earth engine/How to use Google Earth Engine.md",
+                "file": "Sapienza/2nd Semester/Courses/Geomatics and Geoinformation.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technology/cloud/google/earth engine/How to use Google Earth Engine.md",
+                "file": "Sapienza/2nd Semester/Courses/Geomatics and Geoinformation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technology/cloud/google/earth engine/How to use Google Earth Engine.md",
+                "file": "Sapienza/2nd Semester/Courses/Geomatics and Geoinformation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "technology/cloud/google/earth engine/How to use Google Earth Engine.md"
+                "file": "Sapienza/2nd Semester/Courses/Geomatics and Geoinformation.md"
               }
             }
           },
@@ -235,15 +235,15 @@
   },
   "active": "f1506fe1caca0de5",
   "lastOpenFiles": [
+    "Sapienza/2nd Semester/Notes/Geomatics and Geoinformation/Datum and WGS 84.md",
+    "technology/cloud/google/earth engine/How to use Google Earth Engine.md",
     "Pasted image 20230308210433.png",
     "technology/cloud/google/Create Service Account.md",
-    "technology/cloud/google/earth engine/How to use Google Earth Engine.md",
     "technology/cloud/google/earth engine",
     "Sapienza/2nd Semester/Courses/Geomatics and Geoinformation.md",
     "technology/cloud/google",
     "Sapienza/2nd Semester/Courses/Untitled.md",
     "Sapienza/2nd Semester/Courses/Advanced Data Mining and Language Technology.md",
-    "Sapienza/2nd Semester/Notes/Geomatics and Geoinformation/Datum and WGS 84.md",
     "Sapienza/2nd Semester/Notes/Geomatics and Geoinformation",
     "Sapienza/2nd Semester/Courses/Data Management for Data Science.md",
     "Sapienza/2nd Semester/Courses",
