@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "029dac9f219acca8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "technology/cloud/google/Create Service Account.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sapienza/2nd Semester/Courses/Geomatics and Geoinformation.md",
+                "file": "technology/cloud/google/Create Service Account.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sapienza/2nd Semester/Courses/Geomatics and Geoinformation.md",
+                "file": "technology/cloud/google/Create Service Account.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sapienza/2nd Semester/Courses/Geomatics and Geoinformation.md"
+                "file": "technology/cloud/google/Create Service Account.md"
               }
             }
           },
@@ -209,10 +221,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "84a4faab095363d9",
+  "active": "029dac9f219acca8",
   "lastOpenFiles": [
-    "Sapienza/2nd Semester/Courses/Untitled.md",
     "Sapienza/2nd Semester/Courses/Geomatics and Geoinformation.md",
+    "technology/cloud/google/Create Service Account.md",
+    "technology/cloud/google",
+    "Sapienza/2nd Semester/Courses/Untitled.md",
     "Sapienza/2nd Semester/Courses/Advanced Data Mining and Language Technology.md",
     "Sapienza/2nd Semester/Notes/Geomatics and Geoinformation/Datum and WGS 84.md",
     "Sapienza/2nd Semester/Notes/Geomatics and Geoinformation",
@@ -241,7 +255,6 @@
     "Sapienza/Study Abroad/Erasmus/UPC/Courses/Information Retrieval and Recommender Systems.md",
     "Sapienza/Study Abroad/Erasmus/UPC/Courses/Data Analysis and Knowledge Discovery.md",
     "Sapienza/Electives/Natural Language Processing.md",
-    "Sapienza/Study Abroad/Erasmus/VUB/Courses/Reinforcement Learning.md",
     "Sapienza/2nd Semester",
     "Sapienza/Study Abroad/Erasmus/Helsinki/Courses",
     "Sapienza/Study Abroad/Erasmus/Helsinki"

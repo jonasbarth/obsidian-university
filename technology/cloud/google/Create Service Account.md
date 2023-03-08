@@ -1,0 +1,1 @@
+https://developers.google.com/earth-engine/guides/service_account#use-a-service-account-with-a-private-key
