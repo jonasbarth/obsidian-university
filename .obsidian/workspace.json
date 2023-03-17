@@ -78,9 +78,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1e37421c19f4c12c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "technology/python/Accessing non code resources.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -146,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sapienza/2nd Semester/Courses/Geomatics and Geoinformation.md",
+                "file": "technology/python/Accessing non code resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sapienza/2nd Semester/Courses/Geomatics and Geoinformation.md",
+                "file": "technology/python/Accessing non code resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sapienza/2nd Semester/Courses/Geomatics and Geoinformation.md"
+                "file": "technology/python/Accessing non code resources.md"
               }
             }
           },
@@ -233,14 +245,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f1506fe1caca0de5",
+  "active": "1e37421c19f4c12c",
   "lastOpenFiles": [
+    "Sapienza/2nd Semester/Courses/Geomatics and Geoinformation.md",
+    "technology/python/Accessing non code resources.md",
+    "technology/python",
     "Sapienza/2nd Semester/Notes/Geomatics and Geoinformation/Datum and WGS 84.md",
     "technology/cloud/google/earth engine/How to use Google Earth Engine.md",
     "Pasted image 20230308210433.png",
     "technology/cloud/google/Create Service Account.md",
     "technology/cloud/google/earth engine",
-    "Sapienza/2nd Semester/Courses/Geomatics and Geoinformation.md",
     "technology/cloud/google",
     "Sapienza/2nd Semester/Courses/Untitled.md",
     "Sapienza/2nd Semester/Courses/Advanced Data Mining and Language Technology.md",
@@ -269,7 +283,6 @@
     "Sapienza/Study Abroad/Erasmus/UPC/Courses/Open Data.md",
     "Sapienza/Study Abroad/Erasmus/UPC/Courses/Information Retrieval and Recommender Systems.md",
     "Sapienza/2nd Semester",
-    "Sapienza/Study Abroad/Erasmus/Helsinki/Courses",
-    "Sapienza/Study Abroad/Erasmus/Helsinki"
+    "Sapienza/Study Abroad/Erasmus/Helsinki/Courses"
   ]
 }

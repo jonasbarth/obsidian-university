@@ -1,0 +1,1 @@
+https://dev.to/bowmanjd/easily-load-non-python-data-files-from-a-python-package-2e8g
