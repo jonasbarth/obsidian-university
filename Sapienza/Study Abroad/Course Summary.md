@@ -1,4 +1,12 @@
-## Sapienza
+Course Summary
+
+Name:: Course Summary
+University::
+Semester::
+Link::
+ECTS::
+Language::
+Maps::## Sapienza
 
 ```dataview
 TABLE University, Semester, Link, ECTS, Language from "Sapienza/3rd Semester/Courses" SORT file.name ASC

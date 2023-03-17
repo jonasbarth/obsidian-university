@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technology/python/Accessing non code resources.md",
+                "file": "templates/University Course.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technology/python/Accessing non code resources.md",
+                "file": "templates/University Course.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technology/python/Accessing non code resources.md",
+                "file": "templates/University Course.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "technology/python/Accessing non code resources.md"
+                "file": "templates/University Course.md"
               }
             }
           },
@@ -247,8 +247,12 @@
   },
   "active": "1e37421c19f4c12c",
   "lastOpenFiles": [
-    "Sapienza/2nd Semester/Courses/Geomatics and Geoinformation.md",
+    "Sapienza/Study Abroad/Course Summary.md",
+    "Sapienza/Study Abroad/Erasmus/USI/Courses/Machine Learning.md",
+    "Sapienza/Study Abroad/Erasmus/Helsinki/Courses/Computer Vision.md",
+    "Sapienza/Study Abroad/Erasmus/Helsinki/Courses/Big Data Platforms.md",
     "technology/python/Accessing non code resources.md",
+    "Sapienza/2nd Semester/Courses/Geomatics and Geoinformation.md",
     "technology/python",
     "Sapienza/2nd Semester/Notes/Geomatics and Geoinformation/Datum and WGS 84.md",
     "technology/cloud/google/earth engine/How to use Google Earth Engine.md",
@@ -262,7 +266,6 @@
     "Sapienza/2nd Semester/Courses/Data Management for Data Science.md",
     "Sapienza/2nd Semester/Courses",
     "Sapienza/2nd Semester/Notes",
-    "Sapienza/Study Abroad/Course Summary.md",
     "Sapienza/Study Abroad/Erasmus/VUB/Course Information.md",
     "Sapienza/Study Abroad/Erasmus/UPC/Data Science.md",
     "Sapienza/Study Abroad/Erasmus/UPC/Artificial Intelligence.md",
@@ -279,9 +282,6 @@
     "technology/CI/Github/How to cache steps.md",
     "technology/CI/Github/Action that pushes to repo.md",
     "Sapienza/Study Abroad/Erasmus/UPC/Courses/Bioinformatics and Statistical Genetics.md",
-    "Sapienza/Courses.md",
-    "Sapienza/Study Abroad/Erasmus/UPC/Courses/Open Data.md",
-    "Sapienza/Study Abroad/Erasmus/UPC/Courses/Information Retrieval and Recommender Systems.md",
     "Sapienza/2nd Semester",
     "Sapienza/Study Abroad/Erasmus/Helsinki/Courses"
   ]
