@@ -61,7 +61,7 @@ A dev-mode container is a container which has the development workspace from the
 Yes, we can specify as many services as we want inside the `docker-compose.yaml` file.
 
 ## Q3: Can we run a MySQL container and store the database structure and data in a volume?
-Yes, we can 
+Yes, we can. The MySQL database is stored in a `.db` file, so all we need to do is to persist this file to the host via a **bind mount** or with a **volume**.
 
 ## Q4: Is the order of the services defined in a docker-compose file important, or is it irrelevant which service is defined first?
 ## Q5: Is it mandatory to define the network in a docker-compose file?
