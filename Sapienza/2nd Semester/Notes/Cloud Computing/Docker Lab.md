@@ -8,6 +8,29 @@ The container image is the file that contains all of the instructions for how to
 
 # 2.1.2 Part 2: Sample application
 ## Q1: What is the meaning of the docker’s directives used in the docker file? Please comment on each of the directives.
+```Dockerfile
+# syntax=docker/dockerfile:1
+
+# specifies the base image that we will build our custom image around
+FROM node:18-alpine 
+
+# sets the working directory for other instructions like COPY. E.g. when referring to the current directory, it will be in /app.
+WORKDIR /app
+
+# copies everything from the current host directory, into the /app directory.
+COPY . .
+
+# runs the "yarn install --production" command, which installs dependencies
+RUN yarn install --production
+
+# the command that is executed when the container is started. Here, it will run the node app
+CMD ["node", "src/index.js"]
+
+# opens up port 3000 on the container
+EXPOSE 3000
+```
+
+
 ## Q2: Why it is important to tag a container image?
 Tagging images is important because it allows you to **identify** your image after building it. If you do not specify a tag, you will have to use the **image ID** whenever you interact with container, e.g. stopping, starting etc. As the number of images in your repository grows, identifying which image does what becomes increasingly difficult. Additionally, with tags you can specify **versions** of your image, where each tag is a version number, e.g. `0.0.1`, that points to a specific version.
 
@@ -70,4 +93,4 @@ The order of service definition has no impact on the order in which they are sta
 No, it is not mandatory to define the network in the `docker-compose.yaml`. Docker compose will automatically create a network with the service names as aliases, if we do not specify one.
 
 ## Q6: If you would like to run a multi-container app, is it necessary to use docker compose (i.e. to define a service) or you can achieve the same objective using docker commands from the shell? Does a service offers more than just running a multiple container app with a single command?
-It is not necessary to use docker compose for a 
+It is not necessary to use docker compose for a multi-container app. One can achieve the same thing by using docker commands in the command line. However, using docker compose is a better approach when dealing with multiple containers because the entire configuration is written down as code. This means that the configurartion can be versioned, reviewed, and contributed to through a version control system. Additionally, it is easy to share and to repeatedly execute without resorting to manual intervention.
