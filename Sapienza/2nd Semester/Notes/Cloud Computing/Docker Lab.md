@@ -26,13 +26,20 @@ No, to be able to remove a container it first needs to be stopped. Though you ca
 
 # 2.1.4 Part 4: Share the application
 ## Q1: Given a container image available on a docker image repository, can you start an instance of the image on any docker host? Is there any limitation?
-
+Yes, it should be possible to start the instance of the image on **any** docker host. The whole idea of docker is to separate the application from the host that is running it by shipping the host itself so that it can run on any system with docker installed.
 
 # 2.1.5 Part 5: Persist the DB
 ## Q1: If you run two instances of the same container image, let’s call them container A and container B, and you create a file in container A, is that new file visible in container B?
+If all you do is to create the file in container A, it will **not** be visible in container B since their file systems are separated.
 
 ## Q2: Why in the docker command “docker run -d ubuntu bash -c "shuf -i 1-10000 -n 1 -o /data.txt && tail -f /dev/null" we need to keep the container running with “tail -f /dev/null”?
+
 ## Q3: What you can do with the “docker exec” command?
+The `docker exec` command let's you execute a command inside the container. E.g.
+```
+docker exec -it <container ID> bash
+```
+
 ## Q4: Let assume you decide to use a volume. Why you need to mount the volume in the container file system? Does that mean you modify the container filesystem?
 ## Q5: In this part of the tutorial, you have created a volume. Where is the volume located in the file system of your docker host?
 
