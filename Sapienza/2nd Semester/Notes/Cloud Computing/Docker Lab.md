@@ -1,3 +1,6 @@
+# Docker Lab - Cloud Computing 2023
+Jonas Barth - 2050678
+
 # 2.1.1 Part 1: Getting started
 
 ## Q1: Why you run the container docker/getting-started in detached mode?
@@ -14,7 +17,8 @@ The container image is the file that contains all of the instructions for how to
 # specifies the base image that we will build our custom image around
 FROM node:18-alpine 
 
-# sets the working directory for other instructions like COPY. E.g. when referring to the current directory, it will be in /app.
+# sets the working directory for other instructions like COPY. 
+# E.g. when referring to the current directory, it will be in /app.
 WORKDIR /app
 
 # copies everything from the current host directory, into the /app directory.
@@ -23,7 +27,8 @@ COPY . .
 # runs the "yarn install --production" command, which installs dependencies
 RUN yarn install --production
 
-# the command that is executed when the container is started. Here, it will run the node app
+# the command that is executed when the container is started. 
+# Here, it will run the node app
 CMD ["node", "src/index.js"]
 
 # opens up port 3000 on the container
@@ -80,6 +85,8 @@ A dev-mode container is a container which has the development workspace from the
 
 # 2.1.7 Part 7: Multi container app & Part 8: Use Docker Compose
 ## Q1: What is a Docker service?
+A docker service is simply a docker image that might be part of a larger multi-container application. It could be a database or webserver for example.
+
 ## Q2: Can we spin up a single instance of a docker container using a docker-compose file?
 Yes, we can specify as many services as we want inside the `docker-compose.yaml` file.
 
