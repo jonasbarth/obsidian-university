@@ -12,15 +12,21 @@ The container image is the file that contains all of the instructions for how to
 Tagging images is important because it allows you to **identify** your image after building it. If you do not specify a tag, you will have to use the **image ID** whenever you interact with container, e.g. stopping, starting etc. As the number of images in your repository grows, identifying which image does what becomes increasingly difficult. Additionally, with tags you can specify **versions** of your image, where each tag is a version number, e.g. `0.0.1`, that points to a specific version.
 
 ## Q3: Why we should bind a host port with the container port?
-Binding a host port with a container port makes the application that is running inside the container, accessible to the outside  
+Binding a host port with a container port forwards any requests that come to the host port to the specified container port. This is import for applications that are running inside the container and arre listening for incoming messages on that port. For example, a containerised webserver that is listening on port `5000`, will only receive messages if it is bound to host port. 
 
 # 2.1.3 Part 3: Update the application
 ## Q1: It is possible to bind two containers on the same host port?
+No, it is not possible to bind two containers to the same host port. Each host port can only be assigned to a **single** process.
+
 ## Q2: Why and when, after stopping a container, you could need to remove it?
+You remove containers to free up space on your system.
+
 ## Q3: It is possible to remove a running container, without stopping it before the removal?
+No, to be able to remove a container it first needs to be stopped. Though you can stop and remove it with a **single** command.
 
 # 2.1.4 Part 4: Share the application
 ## Q1: Given a container image available on a docker image repository, can you start an instance of the image on any docker host? Is there any limitation?
+
 
 # 2.1.5 Part 5: Persist the DB
 ## Q1: If you run two instances of the same container image, let’s call them container A and container B, and you create a file in container A, is that new file visible in container B?
