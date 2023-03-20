@@ -1,14 +1,15 @@
 # 2.1.1 Part 1: Getting started
 
 ## Q1: Why you run the container docker/getting-started in detached mode?
-Detached mode means that the container will be running in the **background**, without user interaction. This is useful because the terminal where the process was started
+Detached mode means that the container will be running in the **background**, without user interaction. This is useful because the terminal where the process was started can closed and the user can run other commands.
 
 ## Q2: What is the difference between a container and a container image?
-
+The container image is the file that contains all of the instructions for how to **build** the container. It is the blueprint that tells docker how to create the container. Depending on you needs, there are many images available depending on your needs, e.g. a python image that comes with python already installed. The container is a **runnable instance** of the image which is managed by Docker.
 
 # 2.1.2 Part 2: Sample application
 ## Q1: What is the meaning of the docker’s directives used in the docker file? Please comment on each of the directives.
 ## Q2: Why it is important to tag a container image?
+Tagging images is important because it allows you to **identify** your image after building it. 
 ## Q3: Why we should bind a host port with the container port?
 
 # 2.1.3 Part 3: Update the application
