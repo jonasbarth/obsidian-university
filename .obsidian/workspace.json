@@ -114,9 +114,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cea5a25d8cb918b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sapienza/2nd Semester/Notes/Cloud Computing/Docker Lab.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -182,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technology/Containers/Using a Docker dev Container.md",
+                "file": "Sapienza/2nd Semester/Notes/Cloud Computing/Docker Lab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technology/Containers/Using a Docker dev Container.md",
+                "file": "Sapienza/2nd Semester/Notes/Cloud Computing/Docker Lab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "technology/Containers/Using a Docker dev Container.md"
+                "file": "Sapienza/2nd Semester/Notes/Cloud Computing/Docker Lab.md"
               }
             }
           },
@@ -269,10 +281,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "09b40aad05269cb1",
+  "active": "cea5a25d8cb918b2",
   "lastOpenFiles": [
-    "technology/CI/Github/Publishing Docker Image to Docker Hub.md",
     "technology/Containers/Using a Docker dev Container.md",
+    "Sapienza/2nd Semester/Notes/Cloud Computing/Docker Lab.md",
+    "Sapienza/2nd Semester/Notes/Cloud Computing",
+    "technology/CI/Github/Publishing Docker Image to Docker Hub.md",
     "technology/CI/Github/Pushing Dockerfile to GHCR.md",
     "templates/University Course.md",
     "Sapienza/Study Abroad/Course Summary.md",
@@ -303,10 +317,8 @@
     "Sapienza/Study Abroad/Erasmus/Nova Lisbon/Software Engineering Masters.md",
     "Sapienza/Study Abroad/Erasmus/Nova Lisbon/Courses/Data Analytics and Mining.md",
     "Sapienza/Study Abroad/Erasmus/Nova Lisbon/Courses/Software Requirements and Architecture.md",
-    "Sapienza/Study Abroad/Erasmus/Nova Lisbon/Courses/Deep Learning.md",
     "Sapienza/Study Abroad/Erasmus/Nova Lisbon/Courses",
     "Sapienza/Study Abroad/Erasmus/Nova Lisbon",
-    "Sapienza/2nd Semester",
-    "Sapienza/Study Abroad/Erasmus/Helsinki/Courses"
+    "Sapienza/2nd Semester"
   ]
 }
