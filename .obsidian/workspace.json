@@ -281,8 +281,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cea5a25d8cb918b2",
+  "active": "f4f3c0a52798079e",
   "lastOpenFiles": [
+    "Sapienza/2nd Semester/Notes/Cloud Computing/tex2pdf.-9e3a42a325c1eaf8/input.log",
+    "Sapienza/2nd Semester/Notes/Cloud Computing/tex2pdf.-9e3a42a325c1eaf8/input.tex",
+    "Sapienza/2nd Semester/Notes/Cloud Computing/tex2pdf.-9e3a42a325c1eaf8",
     "technology/Containers/Using a Docker dev Container.md",
     "Sapienza/2nd Semester/Notes/Cloud Computing/Docker Lab.md",
     "Sapienza/2nd Semester/Notes/Cloud Computing",
@@ -316,9 +319,6 @@
     "Sapienza/Study Abroad/Erasmus/UPC/Master in Innovation Research and Informatics.md",
     "Sapienza/Study Abroad/Erasmus/Nova Lisbon/Software Engineering Masters.md",
     "Sapienza/Study Abroad/Erasmus/Nova Lisbon/Courses/Data Analytics and Mining.md",
-    "Sapienza/Study Abroad/Erasmus/Nova Lisbon/Courses/Software Requirements and Architecture.md",
-    "Sapienza/Study Abroad/Erasmus/Nova Lisbon/Courses",
-    "Sapienza/Study Abroad/Erasmus/Nova Lisbon",
-    "Sapienza/2nd Semester"
+    "Sapienza/Study Abroad/Erasmus/Nova Lisbon/Courses"
   ]
 }

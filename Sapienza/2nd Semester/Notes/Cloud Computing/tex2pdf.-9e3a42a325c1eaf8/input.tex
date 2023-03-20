@@ -1,0 +1,352 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{amsmath,amssymb}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\usepackage{color}
+\usepackage{fancyvrb}
+\newcommand{\VerbBar}{|}
+\newcommand{\VERB}{\Verb[commandchars=\\\{\}]}
+\DefineVerbatimEnvironment{Highlighting}{Verbatim}{commandchars=\\\{\}}
+% Add ',fontsize=\small' for more characters per line
+\newenvironment{Shaded}{}{}
+\newcommand{\AlertTok}[1]{\textcolor[rgb]{1.00,0.00,0.00}{\textbf{#1}}}
+\newcommand{\AnnotationTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textbf{\textit{#1}}}}
+\newcommand{\AttributeTok}[1]{\textcolor[rgb]{0.49,0.56,0.16}{#1}}
+\newcommand{\BaseNTok}[1]{\textcolor[rgb]{0.25,0.63,0.44}{#1}}
+\newcommand{\BuiltInTok}[1]{\textcolor[rgb]{0.00,0.50,0.00}{#1}}
+\newcommand{\CharTok}[1]{\textcolor[rgb]{0.25,0.44,0.63}{#1}}
+\newcommand{\CommentTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textit{#1}}}
+\newcommand{\CommentVarTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textbf{\textit{#1}}}}
+\newcommand{\ConstantTok}[1]{\textcolor[rgb]{0.53,0.00,0.00}{#1}}
+\newcommand{\ControlFlowTok}[1]{\textcolor[rgb]{0.00,0.44,0.13}{\textbf{#1}}}
+\newcommand{\DataTypeTok}[1]{\textcolor[rgb]{0.56,0.13,0.00}{#1}}
+\newcommand{\DecValTok}[1]{\textcolor[rgb]{0.25,0.63,0.44}{#1}}
+\newcommand{\DocumentationTok}[1]{\textcolor[rgb]{0.73,0.13,0.13}{\textit{#1}}}
+\newcommand{\ErrorTok}[1]{\textcolor[rgb]{1.00,0.00,0.00}{\textbf{#1}}}
+\newcommand{\ExtensionTok}[1]{#1}
+\newcommand{\FloatTok}[1]{\textcolor[rgb]{0.25,0.63,0.44}{#1}}
+\newcommand{\FunctionTok}[1]{\textcolor[rgb]{0.02,0.16,0.49}{#1}}
+\newcommand{\ImportTok}[1]{\textcolor[rgb]{0.00,0.50,0.00}{\textbf{#1}}}
+\newcommand{\InformationTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textbf{\textit{#1}}}}
+\newcommand{\KeywordTok}[1]{\textcolor[rgb]{0.00,0.44,0.13}{\textbf{#1}}}
+\newcommand{\NormalTok}[1]{#1}
+\newcommand{\OperatorTok}[1]{\textcolor[rgb]{0.40,0.40,0.40}{#1}}
+\newcommand{\OtherTok}[1]{\textcolor[rgb]{0.00,0.44,0.13}{#1}}
+\newcommand{\PreprocessorTok}[1]{\textcolor[rgb]{0.74,0.48,0.00}{#1}}
+\newcommand{\RegionMarkerTok}[1]{#1}
+\newcommand{\SpecialCharTok}[1]{\textcolor[rgb]{0.25,0.44,0.63}{#1}}
+\newcommand{\SpecialStringTok}[1]{\textcolor[rgb]{0.73,0.40,0.53}{#1}}
+\newcommand{\StringTok}[1]{\textcolor[rgb]{0.25,0.44,0.63}{#1}}
+\newcommand{\VariableTok}[1]{\textcolor[rgb]{0.10,0.09,0.49}{#1}}
+\newcommand{\VerbatimStringTok}[1]{\textcolor[rgb]{0.25,0.44,0.63}{#1}}
+\newcommand{\WarningTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textbf{\textit{#1}}}}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\author{}
+\date{}
+
+\begin{document}
+
+\hypertarget{part-1-getting-started}{%
+\section{2.1.1 Part 1: Getting started}\label{part-1-getting-started}}
+
+\hypertarget{q1-why-you-run-the-container-dockergetting-started-in-detached-mode}{%
+\subsection{Q1: Why you run the container docker/getting-started in
+detached
+mode?}\label{q1-why-you-run-the-container-dockergetting-started-in-detached-mode}}
+
+Detached mode means that the container will be running in the
+\textbf{background}, without user interaction. This is useful because
+the terminal where the process was started can closed and the user can
+run other commands.
+
+\hypertarget{q2-what-is-the-difference-between-a-container-and-a-container-image}{%
+\subsection{Q2: What is the difference between a container and a
+container
+image?}\label{q2-what-is-the-difference-between-a-container-and-a-container-image}}
+
+The container image is the file that contains all of the instructions
+for how to \textbf{build} the container. It is the blueprint that tells
+docker how to create the container. Depending on you needs, there are
+many images available depending on your needs, e.g.~a python image that
+comes with python already installed. The container is a \textbf{runnable
+instance} of the image which is managed by Docker.
+
+\hypertarget{part-2-sample-application}{%
+\section{2.1.2 Part 2: Sample
+application}\label{part-2-sample-application}}
+
+\hypertarget{q1-what-is-the-meaning-of-the-dockers-directives-used-in-the-docker-file-please-comment-on-each-of-the-directives.}{%
+\subsection{Q1: What is the meaning of the docker’s directives used in
+the docker file? Please comment on each of the
+directives.}\label{q1-what-is-the-meaning-of-the-dockers-directives-used-in-the-docker-file-please-comment-on-each-of-the-directives.}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\# }\CommentVarTok{syntax=docker/dockerfile:1}
+
+\CommentTok{\# specifies the base image that we will build our custom image around}
+\KeywordTok{FROM}\NormalTok{ node:18{-}alpine }
+
+\CommentTok{\# sets the working directory for other instructions like COPY. E.g. when referring to the current directory, it will be in /app.}
+\KeywordTok{WORKDIR}\NormalTok{ /app}
+
+\CommentTok{\# copies everything from the current host directory, into the /app directory.}
+\KeywordTok{COPY}\NormalTok{ . .}
+
+\CommentTok{\# runs the "yarn install {-}{-}production" command, which installs dependencies}
+\KeywordTok{RUN} \ExtensionTok{yarn}\NormalTok{ install }\AttributeTok{{-}{-}production}
+
+\CommentTok{\# the command that is executed when the container is started. Here, it will run the node app}
+\KeywordTok{CMD}\NormalTok{ [}\StringTok{"node"}\NormalTok{, }\StringTok{"src/index.js"}\NormalTok{]}
+
+\CommentTok{\# opens up port 3000 on the container}
+\KeywordTok{EXPOSE}\NormalTok{ 3000}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{q2-why-it-is-important-to-tag-a-container-image}{%
+\subsection{Q2: Why it is important to tag a container
+image?}\label{q2-why-it-is-important-to-tag-a-container-image}}
+
+Tagging images is important because it allows you to \textbf{identify}
+your image after building it. If you do not specify a tag, you will have
+to use the \textbf{image ID} whenever you interact with container,
+e.g.~stopping, starting etc. As the number of images in your repository
+grows, identifying which image does what becomes increasingly difficult.
+Additionally, with tags you can specify \textbf{versions} of your image,
+where each tag is a version number, e.g.~\texttt{0.0.1}, that points to
+a specific version.
+
+\hypertarget{q3-why-we-should-bind-a-host-port-with-the-container-port}{%
+\subsection{Q3: Why we should bind a host port with the container
+port?}\label{q3-why-we-should-bind-a-host-port-with-the-container-port}}
+
+Binding a host port with a container port forwards any requests that
+come to the host port to the specified container port. This is import
+for applications that are running inside the container and arre
+listening for incoming messages on that port. For example, a
+containerised webserver that is listening on port \texttt{5000}, will
+only receive messages if it is bound to host port.
+
+\hypertarget{part-3-update-the-application}{%
+\section{2.1.3 Part 3: Update the
+application}\label{part-3-update-the-application}}
+
+\hypertarget{q1-it-is-possible-to-bind-two-containers-on-the-same-host-port}{%
+\subsection{Q1: It is possible to bind two containers on the same host
+port?}\label{q1-it-is-possible-to-bind-two-containers-on-the-same-host-port}}
+
+No, it is not possible to bind two containers to the same host port.
+Each host port can only be assigned to a \textbf{single} process.
+
+\hypertarget{q2-why-and-when-after-stopping-a-container-you-could-need-to-remove-it}{%
+\subsection{Q2: Why and when, after stopping a container, you could need
+to remove
+it?}\label{q2-why-and-when-after-stopping-a-container-you-could-need-to-remove-it}}
+
+You remove containers to free up space on your system.
+
+\hypertarget{q3-it-is-possible-to-remove-a-running-container-without-stopping-it-before-the-removal}{%
+\subsection{Q3: It is possible to remove a running container, without
+stopping it before the
+removal?}\label{q3-it-is-possible-to-remove-a-running-container-without-stopping-it-before-the-removal}}
+
+No, to be able to remove a container it first needs to be stopped.
+Though you can stop and remove it with a \textbf{single} command.
+
+\hypertarget{part-4-share-the-application}{%
+\section{2.1.4 Part 4: Share the
+application}\label{part-4-share-the-application}}
+
+\hypertarget{q1-given-a-container-image-available-on-a-docker-image-repository-can-you-start-an-instance-of-the-image-on-any-docker-host-is-there-any-limitation}{%
+\subsection{Q1: Given a container image available on a docker image
+repository, can you start an instance of the image on any docker host?
+Is there any
+limitation?}\label{q1-given-a-container-image-available-on-a-docker-image-repository-can-you-start-an-instance-of-the-image-on-any-docker-host-is-there-any-limitation}}
+
+Yes, it should be possible to start the instance of the image on
+\textbf{any} docker host. The whole idea of docker is to separate the
+application from the host that is running it by shipping the host itself
+so that it can run on any system with docker installed.
+
+\hypertarget{part-5-persist-the-db}{%
+\section{2.1.5 Part 5: Persist the DB}\label{part-5-persist-the-db}}
+
+\hypertarget{q1-if-you-run-two-instances-of-the-same-container-image-lets-call-them-container-a-and-container-b-and-you-create-a-file-in-container-a-is-that-new-file-visible-in-container-b}{%
+\subsection{Q1: If you run two instances of the same container image,
+let’s call them container A and container B, and you create a file in
+container A, is that new file visible in container
+B?}\label{q1-if-you-run-two-instances-of-the-same-container-image-lets-call-them-container-a-and-container-b-and-you-create-a-file-in-container-a-is-that-new-file-visible-in-container-b}}
+
+If all you do is to create the file in container A, it will \textbf{not}
+be visible in container B since their file systems are separated.
+
+\hypertarget{q2-why-in-the-docker-command-docker-run--d-ubuntu-bash--cshuf--i-1-10000--n-1--o-data.txt-tail--f-devnull-we-need-to-keep-the-container-running-with-tail--f-devnull}{%
+\subsection{Q2: Why in the docker command “docker run -d ubuntu bash
+-c”shuf -i 1-10000 -n 1 -o /data.txt \&\& tail -f /dev/null” we need to
+keep the container running with “tail -f
+/dev/null”?}\label{q2-why-in-the-docker-command-docker-run--d-ubuntu-bash--cshuf--i-1-10000--n-1--o-data.txt-tail--f-devnull-we-need-to-keep-the-container-running-with-tail--f-devnull}}
+
+The command \texttt{tail\ -f\ /dev/null} watches the \texttt{data.txt}
+file so that the container keeps running after \texttt{data.txt} file
+has been created for us to inspect it.
+
+\hypertarget{q3-what-you-can-do-with-the-docker-exec-command}{%
+\subsection{Q3: What you can do with the “docker exec”
+command?}\label{q3-what-you-can-do-with-the-docker-exec-command}}
+
+The \texttt{docker\ exec} command let’s you execute a command inside the
+container. E.g.
+
+\begin{verbatim}
+docker exec -it <container ID> bash
+\end{verbatim}
+
+runs the \texttt{bash} command inside the container.
+
+\hypertarget{q4-let-assume-you-decide-to-use-a-volume.-why-you-need-to-mount-the-volume-in-the-container-file-system-does-that-mean-you-modify-the-container-filesystem}{%
+\subsection{Q4: Let assume you decide to use a volume. Why you need to
+mount the volume in the container file system? Does that mean you modify
+the container
+filesystem?}\label{q4-let-assume-you-decide-to-use-a-volume.-why-you-need-to-mount-the-volume-in-the-container-file-system-does-that-mean-you-modify-the-container-filesystem}}
+
+The volume lets you connect a specific path on the container file system
+to the host file system and persist data from the container on the host.
+We need to mount the volume into the container file system so that the
+volume data becomes available inside the container. This means that the
+container filesystem is modified, since any data that is in the volume,
+now lives inside the container as well.
+
+\hypertarget{q5-in-this-part-of-the-tutorial-you-have-created-a-volume.-where-is-the-volume-located-in-the-file-system-of-your-docker-host}{%
+\subsection{Q5: In this part of the tutorial, you have created a volume.
+Where is the volume located in the file system of your docker
+host?}\label{q5-in-this-part-of-the-tutorial-you-have-created-a-volume.-where-is-the-volume-located-in-the-file-system-of-your-docker-host}}
+
+The volume is located at \texttt{/var/lib/docker/volumes/} on the docker
+host.
+
+\hypertarget{part-6-use-bind-mounts}{%
+\section{2.1.6 Part 6: Use bind mounts}\label{part-6-use-bind-mounts}}
+
+\hypertarget{q1-what-is-a-dev-mode-container}{%
+\subsection{Q1: What is a dev-mode
+container?}\label{q1-what-is-a-dev-mode-container}}
+
+A dev-mode container is a container which has the development workspace
+from the host \textbf{mounted} into it. This means that we can write
+code on the host machine and immediately see the results in the
+application that is running inside the container.
+
+\hypertarget{q2-can-we-run-a-container-install-software-dependencies-and-then-use-the-updated-container-without-building-first-the-image}{%
+\subsection{Q2: Can we run a container, install software dependencies,
+and then use the updated container without building first the
+image?}\label{q2-can-we-run-a-container-install-software-dependencies-and-then-use-the-updated-container-without-building-first-the-image}}
+
+\hypertarget{part-7-multi-container-app-part-8-use-docker-compose}{%
+\section{2.1.7 Part 7: Multi container app \& Part 8: Use Docker
+Compose}\label{part-7-multi-container-app-part-8-use-docker-compose}}
+
+\hypertarget{q1-what-is-a-docker-service}{%
+\subsection{Q1: What is a Docker
+service?}\label{q1-what-is-a-docker-service}}
+
+\hypertarget{q2-can-we-spin-up-a-single-instance-of-a-docker-container-using-a-docker-compose-file}{%
+\subsection{Q2: Can we spin up a single instance of a docker container
+using a docker-compose
+file?}\label{q2-can-we-spin-up-a-single-instance-of-a-docker-container-using-a-docker-compose-file}}
+
+Yes, we can specify as many services as we want inside the
+\texttt{docker-compose.yaml} file.
+
+\hypertarget{q3-can-we-run-a-mysql-container-and-store-the-database-structure-and-data-in-a-volume}{%
+\subsection{Q3: Can we run a MySQL container and store the database
+structure and data in a
+volume?}\label{q3-can-we-run-a-mysql-container-and-store-the-database-structure-and-data-in-a-volume}}
+
+Yes, we can. The MySQL database is stored in a \texttt{.db} file, so all
+we need to do is to create a volume and mount this file when starting
+the MySQL container.
+
+\hypertarget{q4-is-the-order-of-the-services-defined-in-a-docker-compose-file-important-or-is-it-irrelevant-which-service-is-defined-first}{%
+\subsection{Q4: Is the order of the services defined in a docker-compose
+file important, or is it irrelevant which service is defined
+first?}\label{q4-is-the-order-of-the-services-defined-in-a-docker-compose-file-important-or-is-it-irrelevant-which-service-is-defined-first}}
+
+The order of service definition has no impact on the order in which they
+are started and will be ready, so if we do not care about starting
+services in a specific order, we can define them in any order we like.
+
+\hypertarget{q5-is-it-mandatory-to-define-the-network-in-a-docker-compose-file}{%
+\subsection{Q5: Is it mandatory to define the network in a
+docker-compose
+file?}\label{q5-is-it-mandatory-to-define-the-network-in-a-docker-compose-file}}
+
+No, it is not mandatory to define the network in the
+\texttt{docker-compose.yaml}. Docker compose will automatically create a
+network with the service names as aliases, if we do not specify one.
+
+\hypertarget{q6-if-you-would-like-to-run-a-multi-container-app-is-it-necessary-to-use-docker-compose-i.e.-to-define-a-service-or-you-can-achieve-the-same-objective-using-docker-commands-from-the-shell-does-a-service-offers-more-than-just-running-a-multiple-container-app-with-a-single-command}{%
+\subsection{Q6: If you would like to run a multi-container app, is it
+necessary to use docker compose (i.e.~to define a service) or you can
+achieve the same objective using docker commands from the shell? Does a
+service offers more than just running a multiple container app with a
+single
+command?}\label{q6-if-you-would-like-to-run-a-multi-container-app-is-it-necessary-to-use-docker-compose-i.e.-to-define-a-service-or-you-can-achieve-the-same-objective-using-docker-commands-from-the-shell-does-a-service-offers-more-than-just-running-a-multiple-container-app-with-a-single-command}}
+
+It is not necessary to use docker compose for a multi-container app. One
+can achieve the same thing by using docker commands in the command line.
+However, using docker compose is a better approach when dealing with
+multiple containers because the entire configuration is written down as
+code. This means that the configurartion can be versioned, reviewed, and
+contributed to through a version control system. Additionally, it is
+easy to share and to repeatedly execute without resorting to manual
+intervention.
+
+\end{document}
