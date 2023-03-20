@@ -61,8 +61,13 @@ A dev-mode container is a container which has the development workspace from the
 Yes, we can specify as many services as we want inside the `docker-compose.yaml` file.
 
 ## Q3: Can we run a MySQL container and store the database structure and data in a volume?
-Yes, we can. The MySQL database is stored in a `.db` file, so all we need to do is to persist this file to the host via a **bind mount** or with a **volume**.
+Yes, we can. The MySQL database is stored in a `.db` file, so all we need to do is to create a volume and mount this file when starting the MySQL container.
 
 ## Q4: Is the order of the services defined in a docker-compose file important, or is it irrelevant which service is defined first?
+The order of service definition has no impact on the order in which they are started and will be ready, so if we do not care about starting services in a specific order, we can define them in any order we like. 
+
 ## Q5: Is it mandatory to define the network in a docker-compose file?
+No, it is not mandatory to define the network in the `docker-compose.yaml`. Docker compose will automatically create a network with the service names as aliases, if we do not specify one.
+
 ## Q6: If you would like to run a multi-container app, is it necessary to use docker compose (i.e. to define a service) or you can achieve the same objective using docker commands from the shell? Does a service offers more than just running a multiple container app with a single command?
+It is not necessary to use docker compose for a 
