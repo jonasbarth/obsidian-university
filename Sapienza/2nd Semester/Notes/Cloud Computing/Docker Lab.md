@@ -9,7 +9,8 @@ The container image is the file that contains all of the instructions for how to
 # 2.1.2 Part 2: Sample application
 ## Q1: What is the meaning of the docker’s directives used in the docker file? Please comment on each of the directives.
 ## Q2: Why it is important to tag a container image?
-Tagging images is important because it allows you to **identify** your image after building it. 
+Tagging images is important because it allows you to **identify** your image after building it. If you do not specify a tag, you will have to use the **image ID** whenever you interact with container, e.g. stopping, starting etc. As the number of images in your repository grows, identifying which image does what becomes increasingly difficult. Additionally, with tags you can specify **versions
+
 ## Q3: Why we should bind a host port with the container port?
 
 # 2.1.3 Part 3: Update the application
