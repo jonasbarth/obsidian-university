@@ -33,6 +33,7 @@ Yes, it should be possible to start the instance of the image on **any** docker 
 If all you do is to create the file in container A, it will **not** be visible in container B since their file systems are separated.
 
 ## Q2: Why in the docker command “docker run -d ubuntu bash -c "shuf -i 1-10000 -n 1 -o /data.txt && tail -f /dev/null" we need to keep the container running with “tail -f /dev/null”?
+The command `tail -f /dev/null` watches the `data.txt` file so that the container keeps running after `data.txt` file has been created for us to inspect it.
 
 ## Q3: What you can do with the “docker exec” command?
 The `docker exec` command let's you execute a command inside the container. E.g.
@@ -45,10 +46,12 @@ runs the `bash` command inside the container.
 The volume lets you connect a specific path on the container file system to the host file system and persist data from the container on the host. We need to mount the volume into the container file system so that the volume data becomes available inside the container. This means that the container filesystem is modified, since any data that is in the volume, now lives inside the container as well.
 
 ## Q5: In this part of the tutorial, you have created a volume. Where is the volume located in the file system of your docker host?
-The volume is 
+The volume is located at `/var/lib/docker/volumes/` on the docker host.
 
 # 2.1.6 Part 6: Use bind mounts
 ## Q1: What is a dev-mode container?
+The 
+
 ## Q2: Can we run a container, install software dependencies, and then use the updated container without building first the image?
 
 # 2.1.7 Part 7: Multi container app & Part 8: Use Docker Compose
