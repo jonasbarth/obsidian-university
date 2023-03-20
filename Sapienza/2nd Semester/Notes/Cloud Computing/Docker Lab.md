@@ -50,14 +50,19 @@ The volume is located at `/var/lib/docker/volumes/` on the docker host.
 
 # 2.1.6 Part 6: Use bind mounts
 ## Q1: What is a dev-mode container?
-The 
+A dev-mode container is a container which has the development workspace from the host **mounted** into it. This means that we can write code on the host machine and immediately see the results in the application that is running inside the container.
 
 ## Q2: Can we run a container, install software dependencies, and then use the updated container without building first the image?
+
 
 # 2.1.7 Part 7: Multi container app & Part 8: Use Docker Compose
 ## Q1: What is a Docker service?
 ## Q2: Can we spin up a single instance of a docker container using a docker-compose file?
+Yes, we can specify as many services as we want inside the `docker-compose.yaml` file.
+
 ## Q3: Can we run a MySQL container and store the database structure and data in a volume?
+Yes, we can 
+
 ## Q4: Is the order of the services defined in a docker-compose file important, or is it irrelevant which service is defined first?
 ## Q5: Is it mandatory to define the network in a docker-compose file?
 ## Q6: If you would like to run a multi-container app, is it necessary to use docker compose (i.e. to define a service) or you can achieve the same objective using docker commands from the shell? Does a service offers more than just running a multiple container app with a single command?
