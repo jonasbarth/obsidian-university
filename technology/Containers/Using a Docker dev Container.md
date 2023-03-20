@@ -1,0 +1,2 @@
+It uses bind mounts to mount directory from your development machine **into** your docker container, such that any code updates you make automatically appear in your container.
+https://docs.docker.com/get-started/06_bind_mounts/
