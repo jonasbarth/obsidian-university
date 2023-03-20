@@ -8,114 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "923a14062d2bbf0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sapienza/Study Abroad/Erasmus/UPC/Data Science.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f74bd014e94a4d74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sapienza/2nd Semester/Courses/Advanced Data Mining and Language Technology.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8acb0e89ff4eb47c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sapienza/2nd Semester/Courses/Advanced Data Mining and Language Technology.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "84a4faab095363d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sapienza/2nd Semester/Courses/Geomatics and Geoinformation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "029dac9f219acca8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "technology/cloud/google/Create Service Account.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f1506fe1caca0de5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sapienza/2nd Semester/Courses/Geomatics and Geoinformation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1e37421c19f4c12c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "technology/CI/Github/Pushing Dockerfile to GHCR.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "271d9ab516510493",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "technology/CI/Github/Publishing Docker Image to Docker Hub.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "09b40aad05269cb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "technology/Containers/Using a Docker dev Container.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "cea5a25d8cb918b2",
             "type": "leaf",
             "state": {
@@ -126,9 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ceaa65a672cc767a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "technology/pandoc.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sapienza/2nd Semester/Notes/Cloud Computing/Docker Lab.md",
+                "file": "technology/pandoc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sapienza/2nd Semester/Notes/Cloud Computing/Docker Lab.md",
+                "file": "technology/pandoc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sapienza/2nd Semester/Notes/Cloud Computing/Docker Lab.md"
+                "file": "technology/pandoc.md"
               }
             }
           },
@@ -281,13 +185,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f4f3c0a52798079e",
+  "active": "ceaa65a672cc767a",
   "lastOpenFiles": [
+    "Sapienza/2nd Semester/Notes/Cloud Computing/Docker Lab.md",
+    "technology/pandoc.md",
+    "Sapienza/2nd Semester/Notes/Cloud Computing/test1.pdf",
+    "Sapienza/2nd Semester/Notes/Cloud Computing/tex2pdf.-9e3a42a325c1eaf8/input.pdf",
+    "Sapienza/2nd Semester/Notes/Cloud Computing/tex2pdf.-9e3a42a325c1eaf8/input.aux",
     "Sapienza/2nd Semester/Notes/Cloud Computing/tex2pdf.-9e3a42a325c1eaf8/input.log",
     "Sapienza/2nd Semester/Notes/Cloud Computing/tex2pdf.-9e3a42a325c1eaf8/input.tex",
     "Sapienza/2nd Semester/Notes/Cloud Computing/tex2pdf.-9e3a42a325c1eaf8",
     "technology/Containers/Using a Docker dev Container.md",
-    "Sapienza/2nd Semester/Notes/Cloud Computing/Docker Lab.md",
     "Sapienza/2nd Semester/Notes/Cloud Computing",
     "technology/CI/Github/Publishing Docker Image to Docker Hub.md",
     "technology/CI/Github/Pushing Dockerfile to GHCR.md",
@@ -307,10 +215,7 @@
     "technology/cloud/google",
     "Sapienza/2nd Semester/Courses/Untitled.md",
     "Sapienza/2nd Semester/Courses/Advanced Data Mining and Language Technology.md",
-    "Sapienza/2nd Semester/Notes/Geomatics and Geoinformation",
     "Sapienza/2nd Semester/Courses/Data Management for Data Science.md",
-    "Sapienza/2nd Semester/Courses",
-    "Sapienza/2nd Semester/Notes",
     "Sapienza/Study Abroad/Erasmus/VUB/Course Information.md",
     "Sapienza/Study Abroad/Erasmus/UPC/Data Science.md",
     "Sapienza/Study Abroad/Erasmus/UPC/Artificial Intelligence.md",
@@ -318,7 +223,6 @@
     "Sapienza/2nd Semester/Courses/Optimisation Techniques for Data Science.md",
     "Sapienza/Study Abroad/Erasmus/UPC/Master in Innovation Research and Informatics.md",
     "Sapienza/Study Abroad/Erasmus/Nova Lisbon/Software Engineering Masters.md",
-    "Sapienza/Study Abroad/Erasmus/Nova Lisbon/Courses/Data Analytics and Mining.md",
-    "Sapienza/Study Abroad/Erasmus/Nova Lisbon/Courses"
+    "Sapienza/Study Abroad/Erasmus/Nova Lisbon/Courses/Data Analytics and Mining.md"
   ]
 }
