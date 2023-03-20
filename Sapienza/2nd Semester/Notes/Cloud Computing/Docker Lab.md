@@ -39,9 +39,13 @@ The `docker exec` command let's you execute a command inside the container. E.g.
 ```
 docker exec -it <container ID> bash
 ```
+runs the `bash` command inside the container.
 
 ## Q4: Let assume you decide to use a volume. Why you need to mount the volume in the container file system? Does that mean you modify the container filesystem?
+The volume lets you connect a specific path on the container file system to the host file system and persist data from the container on the host. We need to mount the volume into the container file system so that the volume data becomes available inside the container. This means that the container filesystem is modified, since any data that is in the volume, now lives inside the container as well.
+
 ## Q5: In this part of the tutorial, you have created a volume. Where is the volume located in the file system of your docker host?
+The volume is 
 
 # 2.1.6 Part 6: Use bind mounts
 ## Q1: What is a dev-mode container?
