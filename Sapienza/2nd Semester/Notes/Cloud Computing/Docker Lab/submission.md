@@ -48,7 +48,7 @@ Binding a host port with a container port forwards any requests that come to the
 No, it is not possible to bind two containers to the same host port. Each host port can only be assigned to a **single** process.
 
 ## Q2: Why and when, after stopping a container, you could need to remove it?
-You remove containers to free up space on your system.
+You remove containers if you do not want to run it again and do not want to do a post-mortem by looking at logs for example. Additionally, you free up space on your system.
 
 ## Q3: It is possible to remove a running container, without stopping it before the removal?
 No, to be able to remove a container it first needs to be stopped. Though you can stop and remove it with a **single** command.
@@ -82,14 +82,24 @@ The volume is located at `/var/lib/docker/volumes/` on the docker host.
 A dev-mode container is a container which has the development workspace from the host **mounted** into it. This means that we can write code on the host machine and immediately see the results in the application that is running inside the container.
 
 ## Q2: Can we run a container, install software dependencies, and then use the updated container without building first the image?
+Yes, as long as we keep the container running after installing the software dependencies we do not have to rebuild the image.
 
+Say we start a container from the  `python` **base image**, we can then connect to the container with
+```bash
+docker exec -it <container ID> bash
+```
+and install any dependencies with we want, e.g.
+```
+pip install numpy
+```
+The downside here is that as soon as the container stops, we will lose the work done inside the container as the dependencies were not installed as part of the image creation.
 
 # 2.1.7 Part 7: Multi container app & Part 8: Use Docker Compose
 ## Q1: What is a Docker service?
 A docker service is simply a docker image that might be part of a larger multi-container application. It could be a database or webserver for example.
 
 ## Q2: Can we spin up a single instance of a docker container using a docker-compose file?
-Yes, we can specify as many services as we want inside the `docker-compose.yaml` file.
+Yes, we can specify as many services as we want inside the `docker-compose.yaml` file. It doesn't matter whether it is **one** service or **multiple**.
 
 ## Q3: Can we run a MySQL container and store the database structure and data in a volume?
 Yes, we can. The MySQL database is stored in a `.db` file, so all we need to do is to create a volume and mount this file when starting the MySQL container.
@@ -98,7 +108,7 @@ Yes, we can. The MySQL database is stored in a `.db` file, so all we need to do 
 The order of service definition has no impact on the order in which they are started and will be ready, so if we do not care about starting services in a specific order, we can define them in any order we like. 
 
 ## Q5: Is it mandatory to define the network in a docker-compose file?
-No, it is not mandatory to define the network in the `docker-compose.yaml`. Docker compose will automatically create a network with the service names as aliases, if we do not specify one.
+No, it is not mandatory to define the network in the `docker-compose.yaml`. Docker-compose will automatically create a network with the service names as aliases, if we do not specify one.
 
 ## Q6: If you would like to run a multi-container app, is it necessary to use docker compose (i.e. to define a service) or you can achieve the same objective using docker commands from the shell? Does a service offers more than just running a multiple container app with a single command?
 It is not necessary to use docker compose for a multi-container app. One can achieve the same thing by using docker commands in the command line. However, using docker compose is a better approach when dealing with multiple containers because the entire configuration is written down as code. This means that the configurartion can be versioned, reviewed, and contributed to through a version control system. Additionally, it is easy to share and to repeatedly execute without resorting to manual intervention.
